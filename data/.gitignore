@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyCharm
+.idea/
+
+# Original photos
+images/Originals/
+
+# macOS
+.DS_Store
