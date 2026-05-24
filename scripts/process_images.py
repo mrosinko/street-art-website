@@ -79,8 +79,9 @@ def get_crop_offsets(filename):
 def clean_output_name(source_path):
     stem = source_path.stem
 
-    # Remove crop/offset instructions like -x+50 or -x-50
-    stem = re.sub(r"-x[+-]\d+", "", stem)
+    # Remove crop/offset modifiers at the end of the filename
+    # Handles: --x+50, --x-50, -x+50, -x-50
+    stem = re.sub(r"(-{1,2}x[+-]\d+)$", "", stem)
 
     return stem + ".jpg"
 
