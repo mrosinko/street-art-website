@@ -76,6 +76,14 @@ def get_crop_offsets(filename):
 
     return offset_x, offset_y
 
+def clean_output_name(source_path):
+    stem = source_path.stem
+
+    # Remove crop/offset instructions like -x+50 or -x-50
+    stem = re.sub(r"-x[+-]\d+", "", stem)
+
+    return stem + ".jpg"
+
 def main():
     LARGE_DIR.mkdir(parents=True, exist_ok=True)
     THUMBS_DIR.mkdir(parents=True, exist_ok=True)
@@ -96,7 +104,7 @@ def main():
         return
 
     for source_path in image_files:
-        output_name = source_path.with_suffix(".jpg").name
+        output_name = clean_output_name(source_path)
 
         large_path = LARGE_DIR / output_name
         thumb_path = THUMBS_DIR / output_name
