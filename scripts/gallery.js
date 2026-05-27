@@ -21,10 +21,17 @@ function renderFeatured(covers) {
         const card = document.createElement("div");
 
         card.innerHTML = `
-            <img src="${cover.thumb}" alt="${cover.title}">
+            <img
+                src="${cover.thumb}"
+                alt="${cover.title}"
+                class="gallery-thumbnail"
+            >
             <h3>${cover.title}</h3>
-            <p>${cover.short_description}</p>
+            <p>${cover.city}, ${cover.country}</p>
         `;
+         card.addEventListener("click", () => {
+            openImageModal(cover);
+         });
 
         featuredSection.appendChild(card);
     });
@@ -70,9 +77,18 @@ function renderBrowseCollection(covers) {
                 const card = document.createElement("div");
 
                 card.innerHTML = `
-                    <img src="${cover.thumb}" alt="${cover.title}">
-                    <p>${cover.title}</p>
+                    <img
+                        src="${cover.thumb}"
+                        alt="${cover.title}"
+                        class="gallery-thumbnail"
+                    >
+                    <h3>${cover.title}</h3>
+                    <p>${cover.city}, ${cover.country}</p>
                 `;
+
+                card.addEventListener("click", () => {
+                    openImageModal(cover);
+                });
 
                 grid.appendChild(card);
             });
@@ -81,3 +97,40 @@ function renderBrowseCollection(covers) {
         }
     }
 }
+
+function openImageModal(cover) {
+    const modal = document.getElementById("image-modal");
+    const modalImg = document.getElementById("image-modal-img");
+    const modalTitle = document.getElementById("image-modal-title");
+    const modalLocation = document.getElementById("image-modal-location");
+    const modalDescription = document.getElementById("image-modal-description");
+
+    modalImg.src = cover.large;
+    modalImg.alt = cover.title;
+
+    modalTitle.textContent = cover.title;
+    modalLocation.textContent = `${cover.city}, ${cover.country}`;
+    modalDescription.textContent = cover.description || "";
+
+    modal.classList.remove("hidden");
+}
+
+const modal = document.getElementById("image-modal");
+const closeButton = document.getElementById("image-modal-close");
+
+closeButton.addEventListener("click", (event) => {
+    event.stopPropagation();
+    modal.classList.add("hidden");
+});
+
+modal.addEventListener("click", (event) => {
+    if (event.target === modal) {
+        modal.classList.add("hidden");
+    }
+});
+
+document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") {
+        modal.classList.add("hidden");
+    }
+});

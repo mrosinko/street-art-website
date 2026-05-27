@@ -38,30 +38,79 @@
         margin-top: 45px;
     }
 
-    .gallery {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(220px, 300px));
-        gap: 22px;
-        margin-top: 20px;
-        transition: transform 0.2s ease, box-shadow 0.2s ease;
-    }
+    .thumbnail-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    margin: 16px 0 32px;
+}
 
-    .gallery img {
-        width: 100%;
-        max-width: 300px;
-        border-radius: 14px;
-        box-shadow: 0 4px 14px rgba(0, 0, 0, 0.18);
-    }
+.thumbnail-grid div {
+    width: 180px;
+}
 
-    .gallery img:hover {
-    transform: scale(1.03);
-    box-shadow: 0 8px 20px rgba(0,0,0,0.25);
-    }
+.thumbnail-grid img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
 
-    footer {
-        text-align: center;
-        padding: 30px;
-        margin-top: 60px;
-        color: #776f65;
-        font-size: 14px;
-    }
+.image-modal {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.85);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
+    z-index: 1000;
+}
+
+.image-modal.hidden {
+    display: none;
+}
+
+.image-modal-content {
+    position: relative;
+    max-width: 1000px;
+    width: 100%;
+    max-height: 90vh;
+    background: #111;
+    color: white;
+    border-radius: 12px;
+    padding: 16px;
+    overflow-y: auto;
+}
+
+.image-modal-content img {
+    display: block;
+    max-width: 100%;
+    max-height: 70vh;
+    margin: 0 auto;
+    border-radius: 8px;
+}
+
+.image-modal-close {
+    position: absolute;
+    top: 8px;
+    right: 12px;
+    z-index: 10;
+    font-size: 32px;
+    line-height: 1;
+    border: none;
+    background: transparent;
+    color: white;
+    cursor: pointer;
+}
+
+.image-modal-text {
+    margin-top: 16px;
+}
+
+.image-modal-text h2 {
+    margin-bottom: 4px;
+}
+
+.image-modal-text p {
+    margin: 4px 0;
+}
