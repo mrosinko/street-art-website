@@ -23,7 +23,7 @@ function renderFeatured(covers) {
         card.innerHTML = `
             <img
                 src="${cover.thumb}"
-                alt="${cover.title}"
+                alt="${cover.short_description}"
                 class="gallery-thumbnail"
             >
             <h3>${cover.title}</h3>
@@ -79,7 +79,7 @@ function renderBrowseCollection(covers) {
                 card.innerHTML = `
                     <img
                         src="${cover.thumb}"
-                        alt="${cover.title}"
+                        alt="${cover.short_description}"
                         class="gallery-thumbnail"
                     >
                     <h3>${cover.title}</h3>
