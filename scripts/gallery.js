@@ -23,10 +23,10 @@ function renderFeatured(covers) {
         card.innerHTML = `
             <img
                 src="${cover.thumb}"
-                alt="${cover.short_description}"
+                alt="${cover.short_description || cover.title}"
                 class="gallery-thumbnail"
             >
-            <h3>${cover.title}</h3>
+            <h3>${cover.short_description || cover.title}</h3>
             <p>${cover.city}, ${cover.country}</p>
         `;
          card.addEventListener("click", () => {
@@ -79,10 +79,10 @@ function renderBrowseCollection(covers) {
                 card.innerHTML = `
                     <img
                         src="${cover.thumb}"
-                        alt="${cover.short_description}"
+                        alt="${cover.short_description || cover.title}"
                         class="gallery-thumbnail"
                     >
-                    <h3>${cover.title}</h3>
+                    <h3>${cover.short_description || cover.title}</h3>
                     <p>${cover.city}, ${cover.country}</p>
                 `;
 
