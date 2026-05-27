@@ -4,7 +4,10 @@ import json
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 LARGE_DIR = BASE_DIR / "images" / "Large"
-OUTPUT_JSON = BASE_DIR / "data" / "covers.json"
+
+GENERATED_JSON = BASE_DIR / "data" / "covers.generated.json"
+MANUAL_JSON = BASE_DIR / "data" / "covers.manual.json"
+FINAL_JSON = BASE_DIR / "data" / "covers.json"
 
 
 COUNTRY_LOOKUP = {
@@ -14,27 +17,30 @@ COUNTRY_LOOKUP = {
 }
 
 
-def make_title(parts):
-    # filename format: jp-kyoto-turtle-01.jpg
-    # title should come from middle subject words
-    subject_parts = parts[2:-1]
-
-    if not subject_parts:
-        return ""
-
-    return " ".join(word.capitalize() for word in subject_parts)
-
-
 def display_text(slug):
     return " ".join(word.capitalize() for word in slug.split("-"))
 
 
-def build_record(image_path):
+def load_json(path, default):
+    if not path.exists():
+        return default
+
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+def write_json(path, data):
+    path.parent.mkdir(parents=True, exist_ok=True)
+
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+
+
+def build_generated_record(image_path):
     stem = image_path.stem
 
-    # Split country from rest
     country_code = stem[:2]
-    remainder = stem[3:]   # skip "jp-"
+    remainder = stem[3:]
 
     parts = remainder.split("--")
 
@@ -42,45 +48,85 @@ def build_record(image_path):
     subject_slug = parts[1] if len(parts) > 1 else ""
 
     country = COUNTRY_LOOKUP.get(country_code, country_code.upper())
-    city = display_text(city_slug)
-    title = display_text(subject_slug)
 
     return {
         "id": stem,
-        "title": title,
-
+        "title": display_text(subject_slug),
         "country": country,
-        "region": "",
-        "city": city,
-        "location": "",
-
-        "tags": [],
-
-        "short_description": "",
-        "description": "",
-
+        "city": display_text(city_slug),
         "date_photographed": None,
         "gps": None,
-
         "filename": image_path.name,
         "large": f"images/Large/{image_path.name}",
         "thumb": f"images/Thumbs/{image_path.name}"
     }
 
-def main():
-    records = []
 
+def blank_manual_record(record_id):
+    return {
+        "id": record_id,
+        "region": "",
+        "location": "",
+        "tags": [],
+        "short_description": "",
+        "description": "",
+        "foundry": "",
+        "artist": "",
+        "notes": ""
+    }
+
+
+def merge_records(generated_record, manual_record):
+    merged = generated_record.copy()
+    merged.update(manual_record)
+    return merged
+
+
+def main():
     image_files = sorted(LARGE_DIR.glob("*.jpg"))
 
-    for image_path in image_files:
-        records.append(build_record(image_path))
+    generated_records = [
+        build_generated_record(image_path)
+        for image_path in image_files
+    ]
 
-    OUTPUT_JSON.parent.mkdir(parents=True, exist_ok=True)
+    existing_manual_records = load_json(MANUAL_JSON, [])
 
-    with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
-        json.dump(records, f, indent=2, ensure_ascii=False)
+    manual_by_id = {
+        record["id"]: record
+        for record in existing_manual_records
+    }
 
-    print(f"Wrote {len(records)} records to {OUTPUT_JSON}")
+    updated_manual_records = []
+
+    for generated_record in generated_records:
+        record_id = generated_record["id"]
+
+        if record_id in manual_by_id:
+            updated_manual_records.append(manual_by_id[record_id])
+        else:
+            updated_manual_records.append(blank_manual_record(record_id))
+
+    final_records = []
+
+    manual_by_id = {
+        record["id"]: record
+        for record in updated_manual_records
+    }
+
+    for generated_record in generated_records:
+        record_id = generated_record["id"]
+        manual_record = manual_by_id[record_id]
+        final_records.append(merge_records(generated_record, manual_record))
+
+    write_json(GENERATED_JSON, generated_records)
+    write_json(MANUAL_JSON, updated_manual_records)
+    write_json(FINAL_JSON, final_records)
+
+    print(f"Wrote {len(generated_records)} records")
+    print(f"Generated: {GENERATED_JSON}")
+    print(f"Manual:    {MANUAL_JSON}")
+    print(f"Final:     {FINAL_JSON}")
 
 
 if __name__ == "__main__":
