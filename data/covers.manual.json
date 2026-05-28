@@ -60,14 +60,23 @@
   },
   {
     "id": "jp-uji--city-scape--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kyoto Prefecture",
+    "location": "Uji, Japan",
+    "tags": [
+      "Japan",
+      "Kyoto Prefecture",
+      "Uji",
+      "Uji Bridge",
+      "maple leaves",
+      "river",
+      "cityscape",
+      "sewer cover"
+    ],
+    "short_description": "Uji Bridge with maple leaves",
+    "description": "This Uji City sewer cover features a stylized view of Uji Bridge, one of the city's best-known landmarks, framed by maple leaves and flowing cloud or river motifs. The design reflects Uji's historic riverside setting and its association with scenic walks, temple visits, and seasonal foliage. The inscription reads 宇治市, meaning Uji City, and おすい, meaning sewage.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "This appears to be a common Uji City design found in multiple locations around the city. The bridge motif is likely Uji Bridge over the Uji River."
   },
   {
     "id": "jp-uji--drain-with-color--01--w+200",
@@ -82,25 +91,43 @@
   },
   {
     "id": "jp-uji--fire--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kyoto Prefecture",
+    "location": "Uji, Japan",
+    "tags": [
+      "Japan",
+      "Kyoto Prefecture",
+      "Uji",
+      "fire hydrant",
+      "fire truck",
+      "water",
+      "no parking",
+      "utility cover"
+    ],
+    "short_description": "Fire truck hydrant cover",
+    "description": "This brightly colored Uji utility cover marks access to firefighting water infrastructure. The design shows a red ladder fire truck on a yellow background, making the cover easy to identify in the street. The text 消火栓 means fire hydrant, 駐車禁止 means no parking, and the central 水 character means water.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "This design was found in multiple locations around Uji. It is a functional fire hydrant or firefighting water access cover rather than a decorative sewer cover."
   },
   {
     "id": "jp-uji--industrial--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kyoto Prefecture",
+    "location": "Uji, Japan",
+    "tags": [
+      "Japan",
+      "Kyoto Prefecture",
+      "Uji",
+      "sewer cover",
+      "wastewater",
+      "leaf pattern",
+      "city emblem",
+      "utility cover"
+    ],
+    "short_description": "Uji wastewater cover with leaf pattern",
+    "description": "This Uji City sewer cover uses a repeating leaf pattern around the city emblem, creating a simple but distinctive municipal design. The leaf motif fits Uji's identity as a historic tea-growing and tea-culture center, while the overall design remains more abstract and functional than the city's larger scenic covers. The text 汚水 means sewage or wastewater.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "This design was commonly found around Uji. The central symbol appears to be the Uji City emblem. The repeated leaves may reference Uji's tea culture, but this should be treated as an interpretation rather than a confirmed design note."
   },
   {
     "id": "jp-uji--industrial--02",
@@ -115,47 +142,87 @@
   },
   {
     "id": "jp-uji--nakamura-tokichi-floor--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kyoto Prefecture",
+    "location": "Uji, Japan",
+    "tags": [
+      "Japan",
+      "Kyoto Prefecture",
+      "Uji",
+      "Nakamura Tokichi",
+      "tea shop",
+      "decorative floor piece",
+      "entryway",
+      "non-utility cover"
+    ],
+    "short_description": "Decorative entryway floor piece at Nakamura Tokichi",
+    "description": "This octagonal metal floor piece was found just outside the door of the famous Nakamura Tokichi Main Branch in Uji. Unlike the municipal drain and utility covers in the collection, this appears to be a decorative architectural detail rather than a functional street cover. Its simple geometric form, dark metal finish, and raised circular studs give the entryway a textured, traditional-meets-industrial character.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "This is not a drain or utility cover. It was photographed outside Nakamura Tokichi Main Branch, a well-known tea shop in Uji."
   },
   {
     "id": "jp-uji--poke--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kyoto Prefecture",
+    "location": "Uji, Japan",
+    "tags": [
+      "Japan",
+      "Kyoto Prefecture",
+      "Uji",
+      "Pokémon",
+      "Poké Lid",
+      "Scorbunny",
+      "Spinda",
+      "Asagiri Bridge",
+      "decorative cover"
+    ],
+    "short_description": "Pokémon cover near Asagiri Bridge",
+    "description": "This colorful Pokémon-themed decorative cover was found on the east side of Asagiri Bridge in Uji. The design features Scorbunny and Spinda among leafy greenery, with a pathway-like composition that fits the riverside walking area near the bridge. Like other Poké Lid-style covers, it turns a small piece of street infrastructure into a playful local landmark.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "One-off decorative Pokémon cover found on the east side of Asagiri Bridge. The Japanese names shown are ヒバニー and パッチール, corresponding to Scorbunny and Spinda."
   },
   {
     "id": "jp-uji--poke-matcha--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kyoto Prefecture",
+    "location": "Uji, Japan",
+    "tags": [
+      "Japan",
+      "Kyoto Prefecture",
+      "Uji",
+      "Pokémon",
+      "Poké Lid",
+      "Sinistcha",
+      "Poltchageist",
+      "matcha",
+      "tea",
+      "maple leaves",
+      "decorative cover"
+    ],
+    "short_description": "Pokémon tea-themed cover in Uji",
+    "description": "This colorful Pokémon-themed cover was found at the Historical Park of Tea and Uji Town. The design features the tea-related Pokémon Sinistcha and Poltchageist, shown among matcha, tea utensils, maple leaves, and a traditional bridge-like backdrop. The cover connects Uji’s famous tea culture with Japan’s popular decorative utility cover tradition, turning a street feature into a playful local landmark.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "This appears to be a one-of-a-kind Pokémon decorative cover found at the Historical Park of Tea and Uji Town. The Japanese names shown are ヤバソチャ and チャデス, corresponding to Sinistcha and Poltchageist."
   },
   {
     "id": "jp-uji--small-utility--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kyoto Prefecture",
+    "location": "Uji, Japan",
+    "tags": [
+      "Japan",
+      "Kyoto Prefecture",
+      "Uji",
+      "water utility",
+      "gate valve",
+      "shutoff valve",
+      "small utility cover",
+      "city emblem"
+    ],
+    "short_description": "Uji City water valve cover",
+    "description": "This small Uji City utility cover marks a water-service gate valve or shutoff valve. The blue color, compact round format, and central emblem distinguish it from the larger decorative sewer and storm drain covers found around the city. The text 仕切弁 means gate valve or shutoff valve, while 宇治市 identifies it as belonging to Uji City.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "The markings include 仕切弁, meaning gate valve or shutoff valve, and 宇治市, meaning Uji City. The numbers and letters, including 75 and S, may indicate pipe size, valve type, or maintenance classification."
   },
   {
     "id": "jp.uji--drain-with-leaves--01",
