@@ -80,14 +80,45 @@
   },
   {
     "id": "jp-uji--drain-with-color--01--w+200",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kyoto Prefecture",
+    "location": "Uji, Japan",
+    "tags": [
+      "Japan",
+      "Kyoto Prefecture",
+      "Uji",
+      "street drain",
+      "linear drain",
+      "yamabuki",
+      "Japanese kerria",
+      "city flower",
+      "decorative grate",
+      "utility cover"
+    ],
+    "short_description": "Linear drain with Uji city flower",
+    "description": "This decorative linear street drain in Uji features colored panels of yamabuki, or Japanese kerria, identified on the cover as the city's flower. The yellow blossoms and green leaves are set into a long drainage grate, adding a local botanical motif to an otherwise functional piece of street infrastructure. The central emblem appears to be the Uji City symbol, tying the design to the municipality.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "The inscription 市の花 やまぶき means city flower: yamabuki. Yamabuki is commonly known in English as Japanese kerria. This appears to be a decorative linear drain rather than a round manhole or utility cover."
+  },
+  {
+    "id": "jp-uji--drain-with-leaves--01",
+    "region": "Kyoto Prefecture",
+    "location": "Uji, Japan",
+    "tags": [
+      "Japan",
+      "Kyoto Prefecture",
+      "Uji",
+      "storm drain",
+      "street drain",
+      "maple leaves",
+      "decorative grate",
+      "utility cover"
+    ],
+    "short_description": "Street drain with maple leaf inset",
+    "description": "This rectangular Uji street drain combines a functional drainage grate with a small decorative inset panel showing maple leaves. The design is simpler than the larger round municipal covers, but it carries the same seasonal leaf motif seen around the city. The contrast between the utilitarian slotted grate and the small ornamental panel makes it a good example of how even everyday drainage infrastructure in Uji can include local visual identity.",
+    "foundry": "",
+    "artist": "",
+    "notes": "This type of rectangular drain was commonly found around Uji. The small inset panel appears to show maple leaves; the small text on the panel should be checked if a clearer close-up is available."
   },
   {
     "id": "jp-uji--fire--01",
@@ -233,16 +264,5 @@
     "foundry": "",
     "artist": "",
     "notes": "The markings include 仕切弁, meaning gate valve or shutoff valve, and 宇治市, meaning Uji City. The numbers and letters, including 75 and S, may indicate pipe size, valve type, or maintenance classification."
-  },
-  {
-    "id": "jp.uji--drain-with-leaves--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
-    "foundry": "",
-    "artist": "",
-    "notes": ""
   }
 ]
