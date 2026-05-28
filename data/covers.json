@@ -211,14 +211,24 @@
     "filename": "jp-uji--industrial--02.jpg",
     "large": "images/Large/jp-uji--industrial--02.jpg",
     "thumb": "images/Thumbs/jp-uji--industrial--02.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kyoto Prefecture",
+    "location": "Uji, Japan",
+    "tags": [
+      "Japan",
+      "Kyoto Prefecture",
+      "Uji",
+      "sewer cover",
+      "wastewater",
+      "industrial design",
+      "hexagonal pattern",
+      "three-tab cover",
+      "utility cover"
+    ],
+    "short_description": "Three-tab Uji wastewater cover",
+    "description": "This Uji wastewater cover has a distinctive three-tab outer shape and an open hexagonal grate pattern, giving it a more industrial appearance than the city's decorative scenic covers. A small central floral or municipal-style emblem sits above the label 汚水, meaning sewage or wastewater. The design is functional and geometric, but still includes a subtle decorative center detail.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "This cover appeared less common than the standard round Uji wastewater covers. The three-tab shape and open hexagonal grate pattern make it visually distinctive. The central symbol may be a floral or municipal-style emblem, but it should be confirmed before describing it more specifically."
   },
   {
     "id": "jp-uji--nakamura-tokichi-floor--01",
