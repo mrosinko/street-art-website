@@ -3,7 +3,9 @@
     "id": "jp-ise-shima--pilgrimage--01",
     "region": "",
     "location": "",
-    "tags": [],
+    "tags": [
+      "featured"
+    ],
     "short_description": "Pilgrimage to Kotai Jingu",
     "description": "",
     "foundry": "",
@@ -37,6 +39,76 @@
     "notes": ""
   },
   {
+    "id": "jp-nara--circles--01",
+    "region": "Nara Prefecture",
+    "location": "Nara City",
+    "tags": [
+      "geometric",
+      "circles",
+      "radial",
+      "abstract",
+      "wastewater"
+    ],
+    "short_description": "Geometric radial circle pattern manhole cover.",
+    "description": "An unpainted, cast-iron manhole cover featuring an intricate geometric layout of concentric and interlocking circles radiating outwards from a central multi-pointed star or wheel motif. Includes a small rectangular text block on the left with the hiragana 'おすい' (osui), indicating wastewater.",
+    "foundry": "",
+    "artist": "",
+    "notes": "The text reads 'おすい' (Wastewater). The design is clean and abstract compared to regional pictorial covers."
+  },
+  {
+    "id": "jp-nara--deer--01",
+    "region": "Nara Prefecture",
+    "location": "Nara City",
+    "tags": [
+      "deer",
+      "sika deer",
+      "cherry blossoms",
+      "sakura",
+      "colorized",
+      "pictorial",
+      "wastewater"
+    ],
+    "short_description": "Colorized pictorial cover featuring a Sika deer and cherry blossoms.",
+    "description": "A beautifully detailed, colorized manhole cover depicting Nara's famous Sika deer standing amidst blooming cherry blossoms (sakura). The central crest features the traditional emblem of Nara City surrounded by a floral border. A small label at the bottom reads '汚水' (osui) for wastewater.",
+    "foundry": "",
+    "artist": "",
+    "notes": "Features the classic symbols of Nara: the sacred Sika deer and sakura. The text at the bottom reads '汚水' (Wastewater)."
+  },
+  {
+    "id": "jp-nara--fire--01",
+    "region": "Nara Prefecture",
+    "location": "Nara City",
+    "tags": [
+      "fire hydrant",
+      "rectangular",
+      "diamond pattern",
+      "utility",
+      "no parking"
+    ],
+    "short_description": "Rectangular fire hydrant utility lid with a diamond tread pattern.",
+    "description": "A rectangular, dark iron utility lid built into a painted yellow frame. The lid face features a textured diamond grip pattern, two recessed lifting handles, and the Nara City emblem in the center. The text markings read '奈良市' (Nara City) and '消火栓' (Fire Hydrant). The painted frame above reads '駐車禁止' (No Parking).",
+    "foundry": "",
+    "artist": "",
+    "notes": "The orientation of the text on the lid reads '奈良市' (Nara City) on top and '消火栓' (Fire Hydrant) on the bottom. The curb stencil warns '駐車禁止' (No Parking)."
+  },
+  {
+    "id": "jp-nara--gold-center--01",
+    "region": "Nara Prefecture",
+    "location": "Nara City",
+    "tags": [
+      "gold emblem",
+      "geometric",
+      "red paint",
+      "radial",
+      "wastewater"
+    ],
+    "short_description": "Geometric patterned cover with a striking gold center emblem.",
+    "description": "A circular manhole cover featuring a radial geometric pattern filled with a reddish-brown background paint. The standout feature is a highly detailed, golden-colored Nara City emblem in the exact center. The lower section includes the silver raised-text kanji '汚水' (osui), identifying it as a wastewater line.",
+    "foundry": "",
+    "artist": "",
+    "notes": "The central gold-painted insignia is the official city emblem of Nara. The lower text reads '汚水' (Wastewater)."
+  },
+  {
     "id": "jp-tokyo--flower--01",
     "region": "",
     "location": "",
@@ -51,7 +123,9 @@
     "id": "jp-tokyo--great-wave--01",
     "region": "",
     "location": "",
-    "tags": [],
+    "tags": [
+      "featured"
+    ],
     "short_description": "The Great Wave",
     "description": "",
     "foundry": "",
