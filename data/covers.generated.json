@@ -77,6 +77,72 @@
     "thumb": "images/Thumbs/jp-nara--gold-center--01.jpg"
   },
   {
+    "id": "jp-osaka--caslte-colored--01",
+    "title": "Caslte Colored",
+    "country": "Japan",
+    "city": "Osaka",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp-osaka--caslte-colored--01.jpg",
+    "large": "images/Large/jp-osaka--caslte-colored--01.jpg",
+    "thumb": "images/Thumbs/jp-osaka--caslte-colored--01.jpg"
+  },
+  {
+    "id": "jp-osaka--castle-25--01",
+    "title": "Castle 25",
+    "country": "Japan",
+    "city": "Osaka",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp-osaka--castle-25--01.jpg",
+    "large": "images/Large/jp-osaka--castle-25--01.jpg",
+    "thumb": "images/Thumbs/jp-osaka--castle-25--01.jpg"
+  },
+  {
+    "id": "jp-osaka--city--01",
+    "title": "City",
+    "country": "Japan",
+    "city": "Osaka",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp-osaka--city--01.jpg",
+    "large": "images/Large/jp-osaka--city--01.jpg",
+    "thumb": "images/Thumbs/jp-osaka--city--01.jpg"
+  },
+  {
+    "id": "jp-osaka--city-marker--01",
+    "title": "City Marker",
+    "country": "Japan",
+    "city": "Osaka",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp-osaka--city-marker--01.jpg",
+    "large": "images/Large/jp-osaka--city-marker--01.jpg",
+    "thumb": "images/Thumbs/jp-osaka--city-marker--01.jpg"
+  },
+  {
+    "id": "jp-osaka--fire--01",
+    "title": "Fire",
+    "country": "Japan",
+    "city": "Osaka",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp-osaka--fire--01.jpg",
+    "large": "images/Large/jp-osaka--fire--01.jpg",
+    "thumb": "images/Thumbs/jp-osaka--fire--01.jpg"
+  },
+  {
+    "id": "jp-osaka--splash--01",
+    "title": "Splash",
+    "country": "Japan",
+    "city": "Osaka",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp-osaka--splash--01.jpg",
+    "large": "images/Large/jp-osaka--splash--01.jpg",
+    "thumb": "images/Thumbs/jp-osaka--splash--01.jpg"
+  },
+  {
     "id": "jp-otsu--blue-ring--01",
     "title": "Blue Ring",
     "country": "Japan",
