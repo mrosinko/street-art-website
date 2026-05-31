@@ -42,6 +42,42 @@ function renderFeatured(covers) {
 
     featuredSection.appendChild(grid);
 }
+
+function renderPopCulture(covers) {
+
+    const popCultureSection = document.getElementById("pop-culture");
+
+    const popCultureCovers = covers.filter(
+        cover => cover.tags.includes("pop culture")
+    );
+
+    const grid = document.createElement("div");
+    grid.className = "thumbnail-grid";
+
+    popCultureCovers.forEach(cover => {
+
+        const card = document.createElement("div");
+
+        card.innerHTML = `
+            <img
+                src="${cover.thumb}"
+                alt="${cover.short_description || cover.title}"
+                class="gallery-thumbnail"
+            >
+            <h3>${cover.short_description || cover.title}</h3>
+            <p>${cover.city}, ${cover.country}</p>
+        `;
+
+        card.addEventListener("click", () => {
+            openImageModal(cover);
+        });
+
+        grid.appendChild(card);
+    });
+
+    popCultureSection.appendChild(grid);
+}
+
 function renderBrowseCollection(covers) {
 
     const browseSection = document.getElementById("browse");
