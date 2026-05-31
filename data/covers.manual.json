@@ -109,21 +109,18 @@
     "notes": "The central gold-painted insignia is the official city emblem of Nara. The lower text reads '汚水' (Wastewater)."
   },
   {
-    "id": "jp-osaka--splash--01",
-    "region": "Osaka Prefecture",
-    "location": "Osaka City",
-    "tags": ["water utility", "fountain", "splash", "valve", "cast iron"],
-    "short_description": "Water pipe valve cover with a dramatic water splash design.",
-    "description": "An unpainted, circular iron cover featuring a heavy textured grid pattern in the upper half and a stylized water geyser or splash in the lower half. The central icon resembles a historic water key or hydrant valve. The text '水道' (suido - waterworks) and '水' (mizu - water) surround the small Osaka City water emblem at the bottom.",
-    "foundry": "",
-    "artist": "",
-    "notes": "The text reads '水道' (Waterworks) and '水' (Water). It features the distinct inverted double-arch water drop insignia of the Osaka City Waterworks Bureau."
-  },
-  {
     "id": "jp-osaka--caslte-colored--01",
     "region": "Osaka Prefecture",
     "location": "Osaka City",
-    "tags": ["pictorial", "colorized", "osaka castle", "cherry blossoms", "sakura", "waves", "tennoji ward"],
+    "tags": [
+      "pictorial",
+      "colorized",
+      "osaka castle",
+      "cherry blossoms",
+      "sakura",
+      "waves",
+      "tennoji ward"
+    ],
     "short_description": "Colorized Tennoji Ward variant of the Osaka Castle design with blue water.",
     "description": "A light-blue, pink, and white painted variant of the iconic Osaka Castle manhole cover. It depicts the majestic multi-tiered keep of Osaka Castle flanked by blooming cherry blossoms (sakura) and dynamic cresting water waves at the base. The top features the standard stylized Osaka City crest, while the bottom-left explicitly lists the localized area text '天王寺区' (Tennoji Ward).",
     "foundry": "",
@@ -131,21 +128,17 @@
     "notes": "A ward-specific edition of the classic municipal design. The text reads '天王寺区' (Tennoji Ward)."
   },
   {
-    "id": "jp-osaka--city--01",
-    "region": "Osaka Prefecture",
-    "location": "Osaka City",
-    "tags": ["pictorial", "osaka castle", "water bus", "twin towers", "yodogawa", "shirakawaba bridge"],
-    "short_description": "Unpainted landmark landscape cover showcasing modern and historic Osaka.",
-    "description": "A dense, unpainted pictorial cast-iron cover illustrating Osaka's landscape alongside the Yodo River. The design includes Osaka Castle, the OBP Twin Towers, a floating water bus (Suijou-Bus), and a multi-arched bridge. The outer rim is bordered by a ring of stylized cherry blossoms and willow leaves. The outer frame text reads '大阪市 水道' (Osaka City Waterworks) and '制水弁' (Flow Control Valve).",
-    "foundry": "",
-    "artist": "",
-    "notes": "The bottom text reads '制水弁' (Seisuiben - Flow Control Valve or Sluice Valve), indicating its technical utility type."
-  },
-  {
     "id": "jp-osaka--castle-25--01",
     "region": "Osaka Prefecture",
     "location": "Osaka City",
-    "tags": ["anniversary", "commemorative", "osaka castle", "skyline", "sewerage", "125 years"],
+    "tags": [
+      "anniversary",
+      "commemorative",
+      "osaka castle",
+      "skyline",
+      "sewerage",
+      "125 years"
+    ],
     "short_description": "Commemorative 125th Anniversary Osaka City Sewerage cover.",
     "description": "A heavy industrial iron cover honoring a municipal milestone. The inner medallion displays a stylized split scene: modern skyscrapers on the left and a geometric, block-art rendering of Osaka Castle on the right. The text reads '大阪市下水道事業 125周年' (Osaka City Sewerage Project 125th Anniversary). The traditional 'Mio-tsukushi' city mark is placed in a badge at the bottom-left and inside the top number 25.",
     "foundry": "",
@@ -153,10 +146,35 @@
     "notes": "Issued to commemorate the 125th anniversary of the Osaka City Sewerage system, established originally in 1894. Some specialty versions of this award-winning public design were installed to illuminate at night."
   },
   {
+    "id": "jp-osaka--city--01",
+    "region": "Osaka Prefecture",
+    "location": "Osaka City",
+    "tags": [
+      "pictorial",
+      "osaka castle",
+      "water bus",
+      "twin towers",
+      "yodogawa",
+      "shirakawaba bridge"
+    ],
+    "short_description": "Unpainted landmark landscape cover showcasing modern and historic Osaka.",
+    "description": "A dense, unpainted pictorial cast-iron cover illustrating Osaka's landscape alongside the Yodo River. The design includes Osaka Castle, the OBP Twin Towers, a floating water bus (Suijou-Bus), and a multi-arched bridge. The outer rim is bordered by a ring of stylized cherry blossoms and willow leaves. The outer frame text reads '大阪市 水道' (Osaka City Waterworks) and '制水弁' (Flow Control Valve).",
+    "foundry": "",
+    "artist": "",
+    "notes": "The bottom text reads '制水弁' (Seisuiben - Flow Control Valve or Sluice Valve), indicating its technical utility type."
+  },
+  {
     "id": "jp-osaka--city-marker--01",
     "region": "Osaka Prefecture",
     "location": "Osaka City",
-    "tags": ["plaque", "sidewalk tile", "text art", "osaka dialect", "recycled materials", "bronze"],
+    "tags": [
+      "plaque",
+      "sidewalk tile",
+      "text art",
+      "osaka dialect",
+      "recycled materials",
+      "bronze"
+    ],
     "short_description": "Rectangular sidewalk plaque made of recycled sludge brick featuring Osaka-ben phrases.",
     "description": "A rectangular public sidewalk marker cast in a bronze/brass metallic style. The upper text translates to: 'This brick is made from recycled sewage sludge.' The main body of the plaque is a dense typographic text collage written in the local Osaka dialect (Osaka-ben), including famous phrases like 'まいど' (Maido), 'ぼちぼちでんな' (Bochi-bochi denna), and '好っきゃねん' (Sukkyanen). The bottom right is stamped '大阪市' (Osaka City).",
     "foundry": "",
@@ -167,12 +185,36 @@
     "id": "jp-osaka--fire--01",
     "region": "Osaka Prefecture",
     "location": "Osaka City",
-    "tags": ["fire hydrant", "colorized", "fire engine", "ladder truck", "yellow background", "no parking"],
+    "tags": [
+      "fire hydrant",
+      "colorized",
+      "fire engine",
+      "ladder truck",
+      "yellow background",
+      "no parking"
+    ],
     "short_description": "Bright yellow fire hydrant cover featuring a classic ladder truck.",
     "description": "A high-visibility circular utility cover painted in vibrant safety yellow with a textured dimple grip surface. The central relief graphic shows a red fire engine equipped with a deployable extension ladder. Red banner text flanking the truck reads '消火栓' (Fire Hydrant) and '駐車禁止' (No Parking), along with a banner reading '火の用心' (Beware of Fire) raised on the ladder.",
     "foundry": "",
     "artist": "",
     "notes": "The English 'OSAKA CITY' is molded along the top edge, framing the historic 'Mio-tsukushi' city emblem. The central labels read '消火栓' (Fire Hydrant) and '駐車禁止' (No Parking)."
+  },
+  {
+    "id": "jp-osaka--splash--01",
+    "region": "Osaka Prefecture",
+    "location": "Osaka City",
+    "tags": [
+      "water utility",
+      "fountain",
+      "splash",
+      "valve",
+      "cast iron"
+    ],
+    "short_description": "Water pipe valve cover with a dramatic water splash design.",
+    "description": "An unpainted, circular iron cover featuring a heavy textured grid pattern in the upper half and a stylized water geyser or splash in the lower half. The central icon resembles a historic water key or hydrant valve. The text '水道' (suido - waterworks) and '水' (mizu - water) surround the small Osaka City water emblem at the bottom.",
+    "foundry": "",
+    "artist": "",
+    "notes": "The text reads '水道' (Waterworks) and '水' (Water). It features the distinct inverted double-arch water drop insignia of the Osaka City Waterworks Bureau."
   },
   {
     "id": "jp-otsu--blue-ring--01",
