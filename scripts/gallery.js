@@ -4,6 +4,7 @@ fetch("data/covers.json")
         console.log(covers);
 
         renderFeatured(covers);
+        renderPopCulture(covers);
         renderBrowseCollection(covers);
     });
 

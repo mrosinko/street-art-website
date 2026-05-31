@@ -49,8 +49,8 @@
       "abstract",
       "wastewater"
     ],
-    "short_description": "Geometric radial circle pattern manhole cover.",
-    "description": "An unpainted, cast-iron manhole cover featuring an intricate geometric layout of concentric and interlocking circles radiating outwards from a central multi-pointed star or wheel motif. Includes a small rectangular text block on the left with the hiragana 'おすい' (osui), indicating wastewater.",
+    "short_description": "Geometric radial circle pattern cover.",
+    "description": "An unpainted, cast-iron cover featuring an intricate geometric layout of concentric and interlocking circles radiating outwards from a central multi-pointed star or wheel motif. Includes a small rectangular text block on the left with the hiragana 'おすい' (osui), indicating wastewater.",
     "foundry": "",
     "artist": "",
     "notes": "The text reads 'おすい' (Wastewater). The design is clean and abstract compared to regional pictorial covers."
@@ -69,7 +69,7 @@
       "wastewater"
     ],
     "short_description": "Colorized pictorial cover featuring a Sika deer and cherry blossoms.",
-    "description": "A beautifully detailed, colorized manhole cover depicting Nara's famous Sika deer standing amidst blooming cherry blossoms (sakura). The central crest features the traditional emblem of Nara City surrounded by a floral border. A small label at the bottom reads '汚水' (osui) for wastewater.",
+    "description": "A beautifully detailed, colorized cover depicting Nara's famous Sika deer standing amidst blooming cherry blossoms (sakura). The central crest features the traditional emblem of Nara City surrounded by a floral border. A small label at the bottom reads '汚水' (osui) for wastewater.",
     "foundry": "",
     "artist": "",
     "notes": "Features the classic symbols of Nara: the sacred Sika deer and sakura. The text at the bottom reads '汚水' (Wastewater)."
@@ -103,7 +103,7 @@
       "wastewater"
     ],
     "short_description": "Geometric patterned cover with a striking gold center emblem.",
-    "description": "A circular manhole cover featuring a radial geometric pattern filled with a reddish-brown background paint. The standout feature is a highly detailed, golden-colored Nara City emblem in the exact center. The lower section includes the silver raised-text kanji '汚水' (osui), identifying it as a wastewater line.",
+    "description": "A circular cover featuring a radial geometric pattern filled with a reddish-brown background paint. The standout feature is a highly detailed, golden-colored Nara City emblem in the exact center. The lower section includes the silver raised-text kanji '汚水' (osui), identifying it as a wastewater line.",
     "foundry": "",
     "artist": "",
     "notes": "The central gold-painted insignia is the official city emblem of Nara. The lower text reads '汚水' (Wastewater)."
@@ -138,10 +138,10 @@
       "rowing"
     ],
     "short_description": "Unpainted pictorial cover celebrating Lake Biwa landmarks and activities.",
-    "description": "A highly detailed, unpainted cast-iron manhole cover that compresses several iconic Otsu sightseeing spots into one scene. It shows the Biwako Flower Fountain shooting water arcs, the historic 'Michigan' paddle-wheel cruise ship, sailboats, a crew rowing team, a bird flying over the Biwako Ohashi Bridge, and massive fireworks overhead. The Otsu City emblem sits inside a square block at the bottom center, framed by cherry blossoms and bird-foot violets.",
+    "description": "A highly detailed, unpainted cast-iron cover that compresses several iconic Otsu sightseeing spots into one scene. It shows the Biwako Flower Fountain shooting water arcs, the historic 'Michigan' paddle-wheel cruise ship, sailboats, a crew rowing team, a bird flying over the Biwako Ohashi Bridge, and massive fireworks overhead. The Otsu City emblem sits inside a square block at the bottom center, framed by cherry blossoms and bird-foot violets.",
     "foundry": "",
     "artist": "",
-    "notes": "This design is the standard artistic manhole layout for Otsu City, packing almost all major local tourism symbols into a single relief mold."
+    "notes": "This design is the standard artistic layout for Otsu City, packing almost all major local tourism symbols into a single relief mold."
   },
   {
     "id": "jp-otsu--color-gundam--01",
@@ -156,7 +156,7 @@
       "colorized"
     ],
     "short_description": "Colorized Gundam cover featuring an Otsu-e style Oni.",
-    "description": "A special edition, colorized promotional manhole cover featuring the head of the classic RX-78-2 Mobile Suit Gundam. Standing right next to it is a traditional folk art character—a demon dressed in Buddhist monk robes beating a gong—rendered in the classic local 'Otsu-e' painting style. The labels read 'OTSU', 'RX-78-2 GUNDAM', '大津絵' (Otsu-e), and '鬼の念仏' (Oni no Nenbutsu).",
+    "description": "A special edition, colorized promotional cover featuring the head of the classic RX-78-2 Mobile Suit Gundam. Standing right next to it is a traditional folk art character—a demon dressed in Buddhist monk robes beating a gong—rendered in the classic local 'Otsu-e' painting style. The labels read 'OTSU', 'RX-78-2 GUNDAM', '大津絵' (Otsu-e), and '鬼の念仏' (Oni no Nenbutsu).",
     "foundry": "",
     "artist": "Kunio Okawara (Gundam designer) / Traditional Otsu-e motifs",
     "notes": "Part of the official 'Gundam Manhole Project' collaboration, explicitly pairing iconic anime with local folk history. Marked with '©SOTSU・SUNRISE'."
@@ -174,7 +174,7 @@
       "otsu100"
     ],
     "short_description": "Colorized version of the Otsu city landscape design featuring light blue lake waters.",
-    "description": "A beautifully painted variant of Otsu's landmark manhole cover. The water elements of Lake Biwa are filled with soft sky-blue paint, and details like the Biwako Flower Fountain, fireworks, and sailboats are highlighted in white, yellow, green, and red. The bottom features an 'OTSU 100' anniversary logo next to a cartoon mascot character.",
+    "description": "A beautifully painted variant of Otsu's landmark cover. The water elements of Lake Biwa are filled with soft sky-blue paint, and details like the Biwako Flower Fountain, fireworks, and sailboats are highlighted in white, yellow, green, and red. The bottom features an 'OTSU 100' anniversary logo next to a cartoon mascot character.",
     "foundry": "",
     "artist": "",
     "notes": "Includes the 'OTSU 100' commemorative stamp at the bottom, celebrating the centennial of Otsu's municipal status."
@@ -210,7 +210,7 @@
       "colorized",
       "anime"
     ],
-    "short_description": "Official PokéLid manhole cover featuring Gyarados and a red Shiny Gyarados.",
+    "short_description": "Official PokéLid cover featuring Gyarados and a red Shiny Gyarados.",
     "description": "An official, fully colorized collaborative 'PokéLid' utility cover. The artwork dynamically illustrates two giant serpentine Pokémon: a standard blue Gyarados crashing through the surf alongside a rare, red 'Shiny' Gyarados. The top-right edge reads 'ギャラドス' (Gyarados), the lower left reads 'おおつ' (Otsu) in hiragana, and the bottom center bears the official '©Pokémon' trademark logo.",
     "foundry": "",
     "artist": "",
@@ -297,7 +297,7 @@
     "description": "This decorative linear street drain in Uji features colored panels of yamabuki, or Japanese kerria, identified on the cover as the city's flower. The yellow blossoms and green leaves are set into a long drainage grate, adding a local botanical motif to an otherwise functional piece of street infrastructure. The central emblem appears to be the Uji City symbol, tying the design to the municipality.",
     "foundry": "",
     "artist": "",
-    "notes": "The inscription 市の花 やまぶき means city flower: yamabuki. Yamabuki is commonly known in English as Japanese kerria. This appears to be a decorative linear drain rather than a round manhole or utility cover."
+    "notes": "The inscription 市の花 やまぶき means city flower: yamabuki. Yamabuki is commonly known in English as Japanese kerria. This appears to be a decorative linear drain rather than a round drain or utility cover."
   },
   {
     "id": "jp-uji--drain-with-leaves--01",
