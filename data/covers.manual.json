@@ -110,80 +110,127 @@
   },
   {
     "id": "jp-otsu--blue-ring--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Shiga Prefecture",
+    "location": "Otsu City",
+    "tags": [
+      "water utility",
+      "waves",
+      "blue rim",
+      "geometric",
+      "lake biwa"
+    ],
+    "short_description": "Cast iron cover with a vibrant blue outer ring and a wave patterned center.",
+    "description": "A circular utility cover divided into two main sections: a bright blue painted outer border punctuated by dark pebble-like shapes, and a central cast-iron circle filled with tightly repeating horizontal wave patterns. The center features a stylized logo with the text '仕切弁' (Sikiriben/Shut-off valve) and the Otsu city emblem underneath.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "The text reads '仕切弁', indicating a control or shut-off valve. The design heavily leans into water motifs, likely paying homage to Lake Biwa."
   },
   {
     "id": "jp-otsu--city--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Shiga Prefecture",
+    "location": "Otsu City",
+    "tags": [
+      "pictorial",
+      "lake biwa",
+      "michigan cruise",
+      "biwako flower fountain",
+      "fireworks",
+      "rowing"
+    ],
+    "short_description": "Unpainted pictorial cover celebrating Lake Biwa landmarks and activities.",
+    "description": "A highly detailed, unpainted cast-iron manhole cover that compresses several iconic Otsu sightseeing spots into one scene. It shows the Biwako Flower Fountain shooting water arcs, the historic 'Michigan' paddle-wheel cruise ship, sailboats, a crew rowing team, a bird flying over the Biwako Ohashi Bridge, and massive fireworks overhead. The Otsu City emblem sits inside a square block at the bottom center, framed by cherry blossoms and bird-foot violets.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "This design is the standard artistic manhole layout for Otsu City, packing almost all major local tourism symbols into a single relief mold."
   },
   {
     "id": "jp-otsu--color-gundam--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Shiga Prefecture",
+    "location": "Otsu City",
+    "tags": [
+      "gundam",
+      "anime",
+      "otsu-e",
+      "oni",
+      "collaborative",
+      "colorized"
+    ],
+    "short_description": "Colorized Gundam manhole cover featuring standard RX-78-2 and an Otsu-e style Oni.",
+    "description": "A special edition, colorized promotional manhole cover featuring the head of the classic RX-78-2 Mobile Suit Gundam. Standing right next to it is a traditional folk art character—a demon dressed in Buddhist monk robes beating a gong—rendered in the classic local 'Otsu-e' painting style. The labels read 'OTSU', 'RX-78-2 GUNDAM', '大津絵' (Otsu-e), and '鬼の念仏' (Oni no Nenbutsu).",
     "foundry": "",
-    "artist": "",
-    "notes": ""
+    "artist": "Kunio Okawara (Gundam designer) / Traditional Otsu-e motifs",
+    "notes": "Part of the official 'Gundam Manhole Project' collaboration, explicitly pairing iconic anime with local folk history. Marked with '©SOTSU・SUNRISE'."
   },
   {
     "id": "jp-otsu--ferriss-wheel--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Shiga Prefecture",
+    "location": "Otsu City",
+    "tags": [
+      "pictorial",
+      "colorized",
+      "ferris wheel",
+      "lake biwa",
+      "michigan cruise",
+      "otsu100"
+    ],
+    "short_description": "Colorized version of the Otsu city landscape design featuring light blue lake waters.",
+    "description": "A beautifully painted variant of Otsu's landmark manhole cover. The water elements of Lake Biwa are filled with soft sky-blue paint, and details like the Biwako Flower Fountain, fireworks, and sailboats are highlighted in white, yellow, green, and red. The bottom features an 'OTSU 100' anniversary logo next to a cartoon mascot character.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Includes the 'OTSU 100' commemorative stamp at the bottom, celebrating the centennial of Otsu's municipal status."
   },
   {
     "id": "jp-otsu--map--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Shiga Prefecture",
+    "location": "Otsu City",
+    "tags": [
+      "tile",
+      "mosaic",
+      "map",
+      "compass rose",
+      "lake biwa",
+      "decorative"
+    ],
+    "short_description": "Large decorative tile mosaic compass rose map of Lake Biwa.",
+    "description": "A large, multi-tile circular installation embedded in a public walkway. It features a sharp, dark blue eight-pointed compass rose tracking North, East, South, and West. Laid directly over the center is a bright light-blue silhouette map of Lake Biwa, Shiga's central geographic feature. The text proudly reads 'LAKE BIWA' and 'OTSU' over a lime-green ring background, accompanied by the orange Otsu city mark.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Not a utility hatch cover, but an architectural sidewalk mosaic plaque charting Lake Biwa's shape and orientation relative to Otsu."
   },
   {
     "id": "jp-otsu--pokeman--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Shiga Prefecture",
+    "location": "Otsu City",
+    "tags": [
+      "pokemon",
+      "pokelid",
+      "gyarados",
+      "shiny gyarados",
+      "colorized",
+      "anime"
+    ],
+    "short_description": "Official PokéLid manhole cover featuring Gyarados and a red Shiny Gyarados.",
+    "description": "An official, fully colorized collaborative 'PokéLid' utility cover. The artwork dynamically illustrates two giant serpentine Pokémon: a standard blue Gyarados crashing through the surf alongside a rare, red 'Shiny' Gyarados. The top-right edge reads 'ギャラドス' (Gyarados), the lower left reads 'おおつ' (Otsu) in hiragana, and the bottom center bears the official '©Pokémon' trademark logo.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Part of Japan's national PokéLids (ポケふた) installation project. Gyarados is a fitting choice given Otsu's status as the gateway to Japan's largest freshwater lake."
   },
   {
     "id": "jp-otsu--star--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Shiga Prefecture",
+    "location": "Otsu City",
+    "tags": [
+      "geometric",
+      "concentric waves",
+      "star emblem",
+      "cast iron",
+      "drainage"
+    ],
+    "short_description": "Concentric wave patterned cast iron cover with a star city emblem.",
+    "description": "A heavy-duty, unpainted cast-iron circular utility lid. The surface pattern features deep, concentric radiating rings of sharp, zigzagging wave lines, broken up evenly by small circular ventilation/drainage punch holes. The exact center features the classic Otsu City crest (a five-pointed star cradled inside a stylized circular crescent loop).",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "A functional, non-colorized industrial design prioritizing drainage slip-resistance while retaining the signature water-wave motif of the region."
   },
   {
     "id": "jp-tokyo--flower--01",
