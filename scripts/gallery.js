@@ -16,6 +16,9 @@ function renderFeatured(covers) {
         cover => cover.tags.includes("featured")
     );
 
+    const grid = document.createElement("div");
+    grid.className = "thumbnail-grid";
+
     featuredCovers.forEach(cover => {
 
         const card = document.createElement("div");
@@ -29,12 +32,15 @@ function renderFeatured(covers) {
             <h3>${cover.short_description || cover.title}</h3>
             <p>${cover.city}, ${cover.country}</p>
         `;
-         card.addEventListener("click", () => {
-            openImageModal(cover);
-         });
 
-        featuredSection.appendChild(card);
+        card.addEventListener("click", () => {
+            openImageModal(cover);
+        });
+
+        grid.appendChild(card);
     });
+
+    featuredSection.appendChild(grid);
 }
 function renderBrowseCollection(covers) {
 
@@ -106,9 +112,9 @@ function openImageModal(cover) {
     const modalDescription = document.getElementById("image-modal-description");
 
     modalImg.src = cover.large;
-    modalImg.alt = cover.title;
+    modalImg.alt = cover.short_description || cover.title;;
 
-    modalTitle.textContent = cover.title;
+    modalTitle.textContent = cover.short_description || cover.title;;
     modalLocation.textContent = `${cover.city}, ${cover.country}`;
     modalDescription.textContent = cover.description || "";
 
