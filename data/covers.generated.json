@@ -77,6 +77,83 @@
     "thumb": "images/Thumbs/jp-nara--gold-center--01.jpg"
   },
   {
+    "id": "jp-otsu--blue-ring--01",
+    "title": "Blue Ring",
+    "country": "Japan",
+    "city": "Otsu",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp-otsu--blue-ring--01.jpg",
+    "large": "images/Large/jp-otsu--blue-ring--01.jpg",
+    "thumb": "images/Thumbs/jp-otsu--blue-ring--01.jpg"
+  },
+  {
+    "id": "jp-otsu--city--01",
+    "title": "City",
+    "country": "Japan",
+    "city": "Otsu",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp-otsu--city--01.jpg",
+    "large": "images/Large/jp-otsu--city--01.jpg",
+    "thumb": "images/Thumbs/jp-otsu--city--01.jpg"
+  },
+  {
+    "id": "jp-otsu--color-gundam--01",
+    "title": "Color Gundam",
+    "country": "Japan",
+    "city": "Otsu",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp-otsu--color-gundam--01.jpg",
+    "large": "images/Large/jp-otsu--color-gundam--01.jpg",
+    "thumb": "images/Thumbs/jp-otsu--color-gundam--01.jpg"
+  },
+  {
+    "id": "jp-otsu--ferriss-wheel--01",
+    "title": "Ferriss Wheel",
+    "country": "Japan",
+    "city": "Otsu",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp-otsu--ferriss-wheel--01.jpg",
+    "large": "images/Large/jp-otsu--ferriss-wheel--01.jpg",
+    "thumb": "images/Thumbs/jp-otsu--ferriss-wheel--01.jpg"
+  },
+  {
+    "id": "jp-otsu--map--01",
+    "title": "Map",
+    "country": "Japan",
+    "city": "Otsu",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp-otsu--map--01.jpg",
+    "large": "images/Large/jp-otsu--map--01.jpg",
+    "thumb": "images/Thumbs/jp-otsu--map--01.jpg"
+  },
+  {
+    "id": "jp-otsu--pokeman--01",
+    "title": "Pokeman",
+    "country": "Japan",
+    "city": "Otsu",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp-otsu--pokeman--01.jpg",
+    "large": "images/Large/jp-otsu--pokeman--01.jpg",
+    "thumb": "images/Thumbs/jp-otsu--pokeman--01.jpg"
+  },
+  {
+    "id": "jp-otsu--star--01",
+    "title": "Star",
+    "country": "Japan",
+    "city": "Otsu",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp-otsu--star--01.jpg",
+    "large": "images/Large/jp-otsu--star--01.jpg",
+    "thumb": "images/Thumbs/jp-otsu--star--01.jpg"
+  },
+  {
     "id": "jp-tokyo--flower--01",
     "title": "Flower",
     "country": "Japan",
