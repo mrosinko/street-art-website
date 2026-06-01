@@ -420,26 +420,40 @@
     "notes": "Referenced in file 'jp-tokyo--great-wave--01.jpg'. This public art installation celebrates Sumida Ward as the birthplace of the legendary ukiyo-e master Hokusai."
   },
   {
-    "id": "jp-tokyo--industiral--02",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "id": "jp-tokyo--industrial--02",
+    "region": "Tokyo Prefecture",
+    "location": "Tokyo Metropolis",
+    "tags": [
+      "industrial",
+      "drainage",
+      "diamond tread",
+      "text-only",
+      "water utility",
+      "valve cover"
+    ],
+    "short_description": "Diamond tread pattern cover for a drainage valve system.",
+    "description": "An unpainted, industrial circular utility cover featuring a continuous diamond tread pattern across its entire surface to provide traction. The upper center has a small hexagonal frame with the kanji '水' (Water). The exact center features a horizontal rectangular nameplate reading '排水室' (Drainage Room / Discharging Chamber), and the bottom has a matching single kanji frame reading '道' (Way/Road). Two circular municipal marks flank the central block.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-tokyo--industrial--02.jpg'."
   },
   {
-    "id": "jp-tokyo--industiral--03",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
-    "foundry": "",
+    "id": "jp-tokyo--industrial--03",
+    "region": "Tokyo Prefecture",
+    "location": "Tokyo Metropolis",
+    "tags": [
+      "industrial",
+      "utility",
+      "electrical",
+      "basketweave",
+      "daiichikizai",
+      "text-only"
+    ],
+    "short_description": "Heavy industrial electrical utility cover with a clean basketweave texture.",
+    "description": "An industrial cast-iron circular utility cover with a highly dense, interlocking basketweave or cross-hatch slip-resistant texture. The center features a distinct circular emblem enclosing the single kanji '電' (Den - Electricity). Molded along the lower bottom edge is the manufacturing company name 'DAIICHIKIZAI CO., LTD.'",
+    "foundry": "Daiichikizai Co., Ltd.",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-tokyo--industrial--03.jpg'. Produced by Daiichikizai, a prominent Tokyo-based architectural and civil engineering hardware firm."
   },
   {
     "id": "jp-tokyo--industrial--04",
