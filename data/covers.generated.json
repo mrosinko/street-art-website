@@ -22,6 +22,61 @@
     "thumb": "images/Thumbs/jp-kawaguchiko--bridge--01.jpg"
   },
   {
+    "id": "jp-kawaguchiko--crowns--01",
+    "title": "Crowns",
+    "country": "Japan",
+    "city": "Kawaguchiko",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp-kawaguchiko--crowns--01.jpg",
+    "large": "images/Large/jp-kawaguchiko--crowns--01.jpg",
+    "thumb": "images/Thumbs/jp-kawaguchiko--crowns--01.jpg"
+  },
+  {
+    "id": "jp-kawaguchiko--fire--01",
+    "title": "Fire",
+    "country": "Japan",
+    "city": "Kawaguchiko",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp-kawaguchiko--fire--01.jpg",
+    "large": "images/Large/jp-kawaguchiko--fire--01.jpg",
+    "thumb": "images/Thumbs/jp-kawaguchiko--fire--01.jpg"
+  },
+  {
+    "id": "jp-kawaguchiko--leaves--01",
+    "title": "Leaves",
+    "country": "Japan",
+    "city": "Kawaguchiko",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp-kawaguchiko--leaves--01.jpg",
+    "large": "images/Large/jp-kawaguchiko--leaves--01.jpg",
+    "thumb": "images/Thumbs/jp-kawaguchiko--leaves--01.jpg"
+  },
+  {
+    "id": "jp-kawaguchiko--leaves-and-star--01",
+    "title": "Leaves And Star",
+    "country": "Japan",
+    "city": "Kawaguchiko",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp-kawaguchiko--leaves-and-star--01.jpg",
+    "large": "images/Large/jp-kawaguchiko--leaves-and-star--01.jpg",
+    "thumb": "images/Thumbs/jp-kawaguchiko--leaves-and-star--01.jpg"
+  },
+  {
+    "id": "jp-kawaguchiko--squirrels--01",
+    "title": "Squirrels",
+    "country": "Japan",
+    "city": "Kawaguchiko",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp-kawaguchiko--squirrels--01.jpg",
+    "large": "images/Large/jp-kawaguchiko--squirrels--01.jpg",
+    "thumb": "images/Thumbs/jp-kawaguchiko--squirrels--01.jpg"
+  },
+  {
     "id": "jp-kyoto--festival--01",
     "title": "Festival",
     "country": "Japan",

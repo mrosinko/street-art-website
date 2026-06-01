@@ -28,6 +28,101 @@
     "notes": "May be from Nagashima Foundry"
   },
   {
+    "id": "jp-kawaguchiko--crowns--01",
+    "region": "Yamanashi Prefecture",
+    "location": "Fujikawaguchiko Town",
+    "tags": [
+      "flora",
+      "unpainted",
+      "suzuran",
+      "lily of the valley",
+      "abstract",
+      "pine crests"
+    ],
+    "short_description": "Legacy Ashiwada Village cover featuring stylized lilies of the valley and pine crests.",
+    "description": "An unpainted, industrial circular iron cover featuring an abstract, geometric layout. The outer rim is decorated with a repeating pattern of stylized crowns or cloud-like crests representing pine needles. The inner circle contains dynamic, mirror-imaged branches of Suzuran (Lily of the Valley) flowers surrounding a central mountain hexagram mark. A rectangular label at the lower center reads 'おすい' (Osui - Wastewater).",
+    "foundry": "",
+    "artist": "",
+    "notes": "Referenced in file 'jp-kawaguchiko--crowns--01.jpg'. This vintage design highlights the historic symbols of the former Ashiwada Village."
+  },
+  {
+    "id": "jp-kawaguchiko--fire--01",
+    "region": "Yamanashi Prefecture",
+    "location": "Fujikawaguchiko Town",
+    "tags": [
+      "fire utility",
+      "colorized",
+      "fire cistern",
+      "matoi",
+      "firefighters",
+      "snowflake",
+      "historical-tool"
+    ],
+    "short_description": "Vibrant colorized fire cistern cover depicting a traditional fire brigade matoi.",
+    "description": "A striking circular fire protection cover painted in bold yellow, soft purple, and dark grey tones. The upper half features a geometric diamond cube housing a stylized snowflake-like crest. Spilling downward from the cube is a massive, stylized rendering of a 'matoi'—the traditional tasseled standard used by Edo-period fire brigades to signal fire locations. Bold kanji text splits across the center reading '防火' (Boka - Fire Prevention) and '水槽' (Suiso - Water Tank/Cistern). The old Kawaguchiko town mark is enclosed in a badge on the right.",
+    "foundry": "",
+    "artist": "",
+    "notes": "Referenced in file 'jp-kawaguchiko--fire--01.jpg'. A fantastic example of emergency infrastructure combining high visibility with historic local fire-fighting iconography."
+  },
+  {
+    "id": "jp-kawaguchiko--leaves--01",
+    "region": "Yamanashi Prefecture",
+    "location": "Fujikawaguchiko Town",
+    "tags": [
+      "flora",
+      "unpainted",
+      "evening primrose",
+      "tsukimiso",
+      "fuji cherry",
+      "fujizakura",
+      "sewerage"
+    ],
+    "short_description": "Unpainted Fujikawaguchiko cover showcasing local town flora.",
+    "description": "An unpainted, circular cast-iron sewer cover featuring a dense floral arrangement of Fujikawaguchiko's regional plants. The design highlights blooming Fuji Cherry (Fujizakura) blossoms along with Evening Primrose (Tsukimiso) flowers, set against an abundance of textured leaves. At the center is a circular emblem depicting the stylized municipal crest of the former Kawaguchiko Town. A small banner at the bottom contains the text 'おすい' (Osui - Wastewater).",
+    "foundry": "",
+    "artist": "",
+    "notes": "Referenced in file 'jp-kawaguchiko--leaves--01.jpg'. This design elegantly preserves the legacy flora symbols of the area prior to regional mergers."
+  },
+  {
+    "id": "jp-kawaguchiko--leaves-and-star--01",
+    "region": "Yamanashi Prefecture",
+    "location": "Fujikawaguchiko Town",
+    "tags": [
+      "flora",
+      "unpainted",
+      "hexagram",
+      "star",
+      "evening primrose",
+      "tsukimiso",
+      "fuji cherry",
+      "fujizakura"
+    ],
+    "short_description": "Alternative town flora cover variation featuring a prominent central hexagram.",
+    "description": "An unpainted circular cast-iron utility cover bearing a similar floral pattern of Fuji Cherry and Evening Primrose blooms to the standard town design. However, the exact center features a geometric hexagram (six-pointed star) emblem enclosing a stylized mountain pinnacle. The bottom text bar reads 'おすい' (Osui - Wastewater). The entire cover is framed by a distinct triangular spike border pattern along the outer edge.",
+    "foundry": "",
+    "artist": "",
+    "notes": "Referenced in file 'jp-kawaguchiko--leaves-and-star--01.jpg'. An intriguing localized variation within the lakeside utility network."
+  },
+  {
+    "id": "jp-kawaguchiko--squirrels--01",
+    "region": "Yamanashi Prefecture",
+    "location": "Katsuyama Village",
+    "tags": [
+      "pictorial",
+      "unpainted",
+      "squirrels",
+      "acorns",
+      "cherry blossoms",
+      "sakura",
+      "historical"
+    ],
+    "short_description": "Charming historical Katsuyama Village cover depicting playful squirrels.",
+    "description": "A beautifully detailed, unpainted circular manhole cover showcasing two playful squirrels surrounded by oak branches and acorns. One squirrel is perched on a branch eating an acorn, while the second stands below it looking upward. The entire central scene is framed by an elegant border of blooming cherry blossoms. The bottom left edge explicitly denotes the historical locality text 'かつやま' (Katsuyama), right next to 'おすい' (Osui - Wastewater).",
+    "foundry": "",
+    "artist": "",
+    "notes": "Referenced in file 'jp-kawaguchiko--squirrels--01.jpg'. A highly sought-after legacy design from the former Katsuyama Village area before it merged into modern Fujikawaguchiko."
+  },
+  {
     "id": "jp-kyoto--festival--01",
     "region": "",
     "location": "",
