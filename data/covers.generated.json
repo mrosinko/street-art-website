@@ -482,5 +482,82 @@
     "filename": "jp-uji--small-utility--01.jpg",
     "large": "images/Large/jp-uji--small-utility--01.jpg",
     "thumb": "images/Thumbs/jp-uji--small-utility--01.jpg"
+  },
+  {
+    "id": "jp.himeji--bird--01",
+    "title": "Bird",
+    "country": "Japan",
+    "city": "Himeji",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp.himeji--bird--01.jpg",
+    "large": "images/Large/jp.himeji--bird--01.jpg",
+    "thumb": "images/Thumbs/jp.himeji--bird--01.jpg"
+  },
+  {
+    "id": "jp.himeji--castle--01",
+    "title": "Castle",
+    "country": "Japan",
+    "city": "Himeji",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp.himeji--castle--01.jpg",
+    "large": "images/Large/jp.himeji--castle--01.jpg",
+    "thumb": "images/Thumbs/jp.himeji--castle--01.jpg"
+  },
+  {
+    "id": "jp.himeji--cross-hatched--01",
+    "title": "Cross Hatched",
+    "country": "Japan",
+    "city": "Himeji",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp.himeji--cross-hatched--01.jpg",
+    "large": "images/Large/jp.himeji--cross-hatched--01.jpg",
+    "thumb": "images/Thumbs/jp.himeji--cross-hatched--01.jpg"
+  },
+  {
+    "id": "jp.himeji--flowers--01",
+    "title": "Flowers",
+    "country": "Japan",
+    "city": "Himeji",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp.himeji--flowers--01.jpg",
+    "large": "images/Large/jp.himeji--flowers--01.jpg",
+    "thumb": "images/Thumbs/jp.himeji--flowers--01.jpg"
+  },
+  {
+    "id": "jp.himeji--gundam--01",
+    "title": "Gundam",
+    "country": "Japan",
+    "city": "Himeji",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp.himeji--gundam--01.jpg",
+    "large": "images/Large/jp.himeji--gundam--01.jpg",
+    "thumb": "images/Thumbs/jp.himeji--gundam--01.jpg"
+  },
+  {
+    "id": "jp.himeji--industrial--01",
+    "title": "Industrial",
+    "country": "Japan",
+    "city": "Himeji",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp.himeji--industrial--01.jpg",
+    "large": "images/Large/jp.himeji--industrial--01.jpg",
+    "thumb": "images/Thumbs/jp.himeji--industrial--01.jpg"
+  },
+  {
+    "id": "jp.himeji--zaku--01",
+    "title": "Zaku",
+    "country": "Japan",
+    "city": "Himeji",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp.himeji--zaku--01.jpg",
+    "large": "images/Large/jp.himeji--zaku--01.jpg",
+    "thumb": "images/Thumbs/jp.himeji--zaku--01.jpg"
   }
 ]

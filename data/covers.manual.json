@@ -813,5 +813,82 @@
     "foundry": "",
     "artist": "",
     "notes": "The markings include 仕切弁, meaning gate valve or shutoff valve, and 宇治市, meaning Uji City. The numbers and letters, including 75 and S, may indicate pipe size, valve type, or maintenance classification."
+  },
+  {
+    "id": "jp.himeji--bird--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp.himeji--castle--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp.himeji--cross-hatched--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp.himeji--flowers--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp.himeji--gundam--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp.himeji--industrial--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp.himeji--zaku--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
   }
 ]
