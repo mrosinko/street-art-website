@@ -155,3 +155,60 @@
 .image-modal-close:hover {
     background: rgba(255, 255, 255, 0.18);
 }
+
+@media (max-width: 800px) {
+    .image-modal {
+        padding: 10px;
+        align-items: center;
+    }
+
+    .image-modal-content {
+        display: flex;
+        flex-direction: column;
+        width: calc(100vw - 20px);
+        height: calc(100dvh - 20px);
+        max-width: none;
+        max-height: none;
+        overflow-y: auto;
+        border-radius: 8px;
+    }
+
+    .image-modal-image-wrap {
+        flex: 0 0 auto;
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        padding: 10px;
+        gap: 10px;
+        overflow-x: auto;
+        overflow-y: hidden;
+        scroll-snap-type: x mandatory;
+        box-sizing: border-box;
+    }
+
+    .image-modal-image-wrap img {
+        flex: 0 0 90%;
+        width: 90%;
+        height: auto;
+        max-height: 58dvh;
+        object-fit: contain;
+        scroll-snap-align: center;
+    }
+
+    .image-modal-text {
+        flex: 0 0 auto;
+        padding: 22px 20px 30px;
+        overflow: visible;
+    }
+
+    .image-modal-text #image-modal-title {
+        font-size: 1.65rem;
+        line-height: 1.1;
+    }
+
+    .image-modal-close {
+        position: fixed;
+        top: 18px;
+        right: 18px;
+    }
+}
