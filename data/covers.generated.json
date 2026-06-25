@@ -1,5 +1,49 @@
 [
   {
+    "id": "jp-hakone--ducks--01",
+    "title": "Ducks",
+    "country": "Japan",
+    "city": "Hakone",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp-hakone--ducks--01.jpg",
+    "large": "images/Large/jp-hakone--ducks--01.jpg",
+    "thumb": "images/Thumbs/jp-hakone--ducks--01.jpg"
+  },
+  {
+    "id": "jp-hakone--fish--01",
+    "title": "Fish",
+    "country": "Japan",
+    "city": "Hakone",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp-hakone--fish--01.jpg",
+    "large": "images/Large/jp-hakone--fish--01.jpg",
+    "thumb": "images/Thumbs/jp-hakone--fish--01.jpg"
+  },
+  {
+    "id": "jp-hakone--flower--01",
+    "title": "Flower",
+    "country": "Japan",
+    "city": "Hakone",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp-hakone--flower--01.jpg",
+    "large": "images/Large/jp-hakone--flower--01.jpg",
+    "thumb": "images/Thumbs/jp-hakone--flower--01.jpg"
+  },
+  {
+    "id": "jp-hakone--swans--01",
+    "title": "Swans",
+    "country": "Japan",
+    "city": "Hakone",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp-hakone--swans--01.jpg",
+    "large": "images/Large/jp-hakone--swans--01.jpg",
+    "thumb": "images/Thumbs/jp-hakone--swans--01.jpg"
+  },
+  {
     "id": "jp-himeji--bird--01",
     "title": "Bird",
     "country": "Japan",
