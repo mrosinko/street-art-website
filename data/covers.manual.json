@@ -213,17 +213,78 @@
     "notes": "Installed as part of the official 'Gundam Manhole Project' to boost local tourism and celebrate the city's landmarks."
   },
   {
-    "id": "jp-ise-shima--pilgrimage--01",
-    "region": "",
-    "location": "",
+    "id": "jp-ise--geometric--01",
+    "region": "Mie Prefecture",
+    "location": "Ise City",
     "tags": [
-      "featured"
+      "geometric",
+      "industrial",
+      "radial",
+      "unpainted",
+      "concentric",
+      "circles"
     ],
-    "short_description": "Pilgrimage scene dedicated to Kotai Jingu.",
-    "description": "",
+    "short_description": "Unpainted cast-iron cover with a radial geometric pattern.",
+    "description": "An unpainted, circular cast-iron utility cover featuring a clean, geometric layout. The design is structured around concentric circles intersected by radial lines, creating a grid of panels. Within the outer rings, each section houses a stylized circular motif with a central dot, while the exact center of the manhole remains a smooth, unadorned circular plate.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Photographed on a gravel walkway surface, showcasing a utility design focused entirely on geometric symmetry and traction."
+  },
+  {
+    "id": "jp-ise--fire--01",
+    "region": "Mie Prefecture",
+    "location": "Ise City",
+    "tags": [
+      "fire utility",
+      "rectangular",
+      "honeycomb",
+      "water utility",
+      "no parking"
+    ],
+    "short_description": "Rectangular fire hydrant lid with a textured honeycomb grid.",
+    "description": "A high-visibility rectangular utility cover set flush into sidewalk tiling. The central cast-iron plate features a dense, skid-resistant honeycomb traction pattern. Raised kanji on the plate reads '上水道' (Waterworks) at the top, '消火栓' (Fire Hydrant) at the bottom, and a large central circle enclosing the character '水' (Water). The surrounding frame is painted tan with bold red corner blocks containing the warning text '駐', '車', '禁', '止' (No Parking).",
+    "foundry": "",
+    "artist": "",
+    "notes": "A standard municipal emergency infrastructure asset optimizing street visibility and safety compliance."
+  },
+  {
+    "id": "jp-ise--pilgrimage--01",
+    "region": "Mie Prefecture",
+    "location": "Ise City",
+    "tags": [
+      "featured",
+      "pictorial",
+      "colorized",
+      "okage-mairi",
+      "pilgrims",
+      "edo period",
+      "historical",
+      "sewerage"
+    ],
+    "short_description": "Colorized cover depicting Edo-period pilgrims on a journey.",
+    "description": "A beautifully rendered circular sewer cover illustrating 'Okage-mairi'—the historic mass pilgrimages to the Grand Shrine of Ise during the Edo period. The painted design shows five travelers in traditional clothing, straw hats, and cloaks journeying together under a soft teal sky with stylized clouds. Large bold kanji at the top reads '伊勢' (Ise). A green banner at the bottom contains the hiragana text 'おすい' (Osui - Wastewater).",
+    "foundry": "",
+    "artist": "",
+    "notes": "This signature design beautifully honors Ise's deep cultural history as Japan's ultimate pilgrimage destination."
+  },
+  {
+    "id": "jp-ise--pilgrimage--02",
+    "region": "Mie Prefecture",
+    "location": "Ise City",
+    "tags": [
+      "pictorial",
+      "unpainted",
+      "okage-mairi",
+      "pilgrims",
+      "edo period",
+      "historical",
+      "sewerage"
+    ],
+    "short_description": "Unpainted relief variant of the Ise pilgrim scene.",
+    "description": "An unpainted, raw cast-iron circular wastewater cover utilizing the exact same 'Okage-mairi' pilgrimage illustration as the colorized version. The relief details the expressions, woven textures of the straw hats, and walking staffs of the five historic travelers. The large characters for '伊勢' (Ise) remain prominent at the top, and the text 'おすい' (Osui - Wastewater) is embedded along the bottom rim.",
+    "foundry": "",
+    "artist": "",
+    "notes": "The standard, unpainted street-level deployment of Ise's iconic historical narrative layout."
   },
   {
     "id": "jp-kawaguchiko--bridge--01",

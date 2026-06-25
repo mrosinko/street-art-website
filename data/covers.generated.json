@@ -121,6 +121,28 @@
     "thumb": "images/Thumbs/jp-himeji--zaku--01.jpg"
   },
   {
+    "id": "jp-ise-shima--circular-01",
+    "title": "Circular 01",
+    "country": "Japan",
+    "city": "Ise Shima",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp-ise-shima--circular-01.jpg",
+    "large": "images/Large/jp-ise-shima--circular-01.jpg",
+    "thumb": "images/Thumbs/jp-ise-shima--circular-01.jpg"
+  },
+  {
+    "id": "jp-ise-shima--fire-01",
+    "title": "Fire 01",
+    "country": "Japan",
+    "city": "Ise Shima",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp-ise-shima--fire-01.jpg",
+    "large": "images/Large/jp-ise-shima--fire-01.jpg",
+    "thumb": "images/Thumbs/jp-ise-shima--fire-01.jpg"
+  },
+  {
     "id": "jp-ise-shima--pilgrimage--01",
     "title": "Pilgrimage",
     "country": "Japan",
@@ -130,6 +152,17 @@
     "filename": "jp-ise-shima--pilgrimage--01.jpg",
     "large": "images/Large/jp-ise-shima--pilgrimage--01.jpg",
     "thumb": "images/Thumbs/jp-ise-shima--pilgrimage--01.jpg"
+  },
+  {
+    "id": "jp-ise-shima--pilgrimage-no-color.01",
+    "title": "Pilgrimage No Color.01",
+    "country": "Japan",
+    "city": "Ise Shima",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp-ise-shima--pilgrimage-no-color.01.jpg",
+    "large": "images/Large/jp-ise-shima--pilgrimage-no-color.01.jpg",
+    "thumb": "images/Thumbs/jp-ise-shima--pilgrimage-no-color.01.jpg"
   },
   {
     "id": "jp-kawaguchiko--bridge--01",
