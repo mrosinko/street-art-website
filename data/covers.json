@@ -366,14 +366,21 @@
     "filename": "jp-ise-shima--circular--01.jpg",
     "large": "images/Large/jp-ise-shima--circular--01.jpg",
     "thumb": "images/Thumbs/jp-ise-shima--circular--01.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Mie Prefecture",
+    "location": "Ise City",
+    "tags": [
+      "geometric",
+      "industrial",
+      "radial",
+      "unpainted",
+      "concentric",
+      "circles"
+    ],
+    "short_description": "Unpainted cast-iron cover with a radial geometric pattern.",
+    "description": "An unpainted, circular cast-iron utility cover featuring a clean, geometric layout. The design is structured around concentric circles intersected by radial lines, creating a grid of panels. Within the outer rings, each section houses a stylized circular motif with a central dot, while the exact center of the manhole remains a smooth, unadorned circular plate.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Photographed on a gravel walkway surface, showcasing a utility design focused entirely on geometric symmetry and traction."
   },
   {
     "id": "jp-ise-shima--fire--01",
