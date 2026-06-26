@@ -9,14 +9,23 @@
     "filename": "jp-chubu-sangaku-national-park--animal--01.jpg",
     "large": "images/Large/jp-chubu-sangaku-national-park--animal--01.jpg",
     "thumb": "images/Thumbs/jp-chubu-sangaku-national-park--animal--01.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Gifu Prefecture",
+    "location": "Takayama City (Okuhida Onsengo)",
+    "tags": [
+      "pictorial",
+      "colorized",
+      "circular",
+      "stoat",
+      "ermine",
+      "mountains",
+      "clouds",
+      "sewerage"
+    ],
+    "short_description": "Colorized circular manhole cover featuring an ermine and mountain scenery.",
+    "description": "A circular cast-iron sewer cover painted with green, light blue, and white accents. The main design depicts a stylized, cartoon-like ermine (stoat) in the foreground, set against a background of rugged mountain peaks and rolling clouds. Text at the top reads '高山市' (Takayama City) in a light blue banner, and text to the right reads '奥飛騨温泉郷' (Okuhida Onsengo). A light blue ribbon under the animal reads '下水道' (Sewerage), and the central circular emblem displays the former Kamitara village crest.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-chubu-sangaku-national-park--animal--01.jpg'. This cover is located in the Okuhida Hot Spring Village area near Chubu-Sangaku National Park, celebrating the region's alpine wildlife."
   },
   {
     "id": "jp-chubu-sangaku-national-park--animal--02",
@@ -28,14 +37,23 @@
     "filename": "jp-chubu-sangaku-national-park--animal--02.jpg",
     "large": "images/Large/jp-chubu-sangaku-national-park--animal--02.jpg",
     "thumb": "images/Thumbs/jp-chubu-sangaku-national-park--animal--02.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Gifu Prefecture",
+    "location": "Takayama City (Okuhida Onsengo)",
+    "tags": [
+      "pictorial",
+      "unpainted",
+      "circular",
+      "stoat",
+      "ermine",
+      "mountains",
+      "clouds",
+      "sewerage"
+    ],
+    "short_description": "Unpainted variant of the Okuhida Onsengo ermine cover.",
+    "description": "An unpainted, raw cast-iron circular manhole cover featuring the same alpine design as the colorized version. It illustrates a stylized ermine with mountains and clouds in low-relief texture. Instead of kanji banners at the top right, this casting variant features a central ribbon reading 'OKUHIDA' in English block lettering next to the central crest, a small top arc reading '平湯' (Hirayu), and '下水道' (Sewerage) along the bottom banner.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-chubu-sangaku-national-park--animal--02.jpg'. A textured, high-traction variant of the Okuhida design series found near the Hirayu Onsen area."
   },
   {
     "id": "jp-hakone--ducks--01",
