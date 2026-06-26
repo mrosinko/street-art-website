@@ -328,80 +328,117 @@
   },
   {
     "id": "jp-kamakura--fire--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kanagawa Prefecture",
+    "location": "Kamakura City",
+    "tags": [
+      "pictorial",
+      "colorized",
+      "circular",
+      "fire utility",
+      "fire hydrant",
+      "gulls",
+      "waves",
+      "gentian",
+      "prefectural water"
+    ],
+    "short_description": "Colorized orange and gray circular fire hydrant cover.",
+    "description": "A circular cast-iron fire hydrant cover inset into an orange-bordered street frame. The outer ring of the cover is highlighted with a vivid orange paint layer featuring repeating wave or cloud abstract cuts alongside the vertical text '県営水道' (Prefectural Waterworks). The center area displays a dense field of flying gulls over ripples, with a central crest containing the Kamakura City gentian flower (Sashindo) emblem and a bottom orange text block reading '消火栓' (Fire Hydrant).",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kamakura--fire--01.jpg'. Managed under Kanagawa Prefectural Waterworks, utilizing Kamakura's local municipal symbols."
   },
   {
     "id": "jp-kamakura--flower--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kanagawa Prefecture",
+    "location": "Kamakura City",
+    "tags": [
+      "pictorial",
+      "unpainted",
+      "circular",
+      "water utility",
+      "gate valve",
+      "lily",
+      "waves",
+      "prefectural water"
+    ],
+    "short_description": "Unpainted circular valve cover featuring a lily flower design.",
+    "description": "An unpainted, circular cast-iron gate valve cover. The relief artwork is split between a stylized lily blossom (Shirayuri) on the right and geometric wave layers on the bottom, with an abstract municipal wave alignment pattern dominating the upper-left quadrant. Text in low relief reads '仕切弁' (Gate Valve) next to the Kanagawa water bureau symbol, surrounded by '県水道' (Prefectural Waterworks) repeating on the outer ring.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kamakura--flower--01.jpg'. This standard regional Kanagawa Prefecture asset layout is also seen across nearby municipal boundaries like Hakone."
   },
   {
     "id": "jp-kamakura--industrial--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kanagawa Prefecture",
+    "location": "Kamakura City",
+    "tags": [
+      "geometric",
+      "industrial",
+      "diamond grid",
+      "unpainted",
+      "gentian",
+      "crest"
+    ],
+    "short_description": "Unpainted diamond grid manhole featuring Kamakura's gentian crest.",
+    "description": "A classic circular cast-iron utility manhole cover with a raised diamond-shaped cross-hatch traction grid across its entire surface. At the geometric center, a smooth circular medallion contains the historical Kamakura City crest—the gentian flower and leaves (Sashindo). The cover includes two small teardrop utility lifting slots on opposite sides.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kamakura--industrial--01.jpg'. A functional heavy-traffic urban infrastructure cover utilizing Kamakura's official city emblem for local identification."
   },
   {
     "id": "jp-kamakura--industrial--02",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kanagawa Prefecture",
+    "location": "Kamakura City",
+    "tags": [
+      "geometric",
+      "industrial",
+      "diamond grid",
+      "unpainted",
+      "gentian",
+      "crest"
+    ],
+    "short_description": "Clean-cast diamond grid variant featuring the city gentian crest.",
+    "description": "A circular cast-iron cover featuring a sharp diamond grid pattern designed for pedestrian skid resistance. The center is anchored by the Kamakura City gentian flower symbol enclosed in a clean circle. The composition is highly similar to industrial--01 but displays slight casting finish differences and alternate alignment of its perimeter features.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kamakura--industrial--02.jpg'. Another standard street variant showing the deep deployment of the municipal emblem on basic utility hardware."
   },
   {
     "id": "jp-kamakura--industrial--03",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kanagawa Prefecture",
+    "location": "Kamakura City",
+    "tags": [
+      "pictorial",
+      "unpainted",
+      "circular",
+      "cherry blossoms",
+      "waves",
+      "ichimatsu",
+      "checkerboard"
+    ],
+    "short_description": "Unpainted artistic cover with cherry blossoms and checkerboard patterns.",
+    "description": "An unpainted circular cast-iron utility cover featuring a rich, complex mix of traditional patterns. Diagonal bands of flowing, stylized water waves intersect with blocks of 'Ichimatsu' (traditional Japanese checkerboard patterns). Sprigs of blooming cherry blossoms (Sakura) are delicately scattered throughout the composition. A small circular municipal crest sits directly in the center.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kamakura--industrial--03.jpg'. An unpainted deployment of a high-art design that weaves classic Japanese textile and natural motifs into the urban landscape."
   },
   {
     "id": "jp-kamakura--industrial--04",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kanagawa Prefecture",
+    "location": "Kamakura City",
+    "tags": [
+      "geometric",
+      "industrial",
+      "radial",
+      "fire utility",
+      "water cistern",
+      "gentian"
+    ],
+    "short_description": "Radial geometric cover for a fire defense water cistern.",
+    "description": "A circular cast-iron utility cover with a prominent concentric and radial geometric block pattern. The inner ring features raised kanji characters reading '防火' (Fire Defense/Prevention) at the top and '貯水槽' (Water Cistern / Storage Tank) at the bottom. The center circle prominently displays the Kamakura City gentian flower crest.",
     "foundry": "",
     "artist": "",
-    "notes": ""
-  },
-  {
-    "id": "jp-kamakura--lantern--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
-    "foundry": "",
-    "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kamakura--industrial--04.jpg'. This designates an underground emergency water storage supply intended for local firefighting use."
   },
   {
     "id": "jp-kanazawa--blue--01",
@@ -449,6 +486,17 @@
   },
   {
     "id": "jp-kanazawa--industrial--02",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kanazawa--lantern--01",
     "region": "",
     "location": "",
     "tags": [],

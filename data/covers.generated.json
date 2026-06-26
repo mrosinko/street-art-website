@@ -253,17 +253,6 @@
     "thumb": "images/Thumbs/jp-kamakura--industrial--04.jpg"
   },
   {
-    "id": "jp-kamakura--lantern--01",
-    "title": "Lantern",
-    "country": "Japan",
-    "city": "Kamakura",
-    "date_photographed": null,
-    "gps": null,
-    "filename": "jp-kamakura--lantern--01.jpg",
-    "large": "images/Large/jp-kamakura--lantern--01.jpg",
-    "thumb": "images/Thumbs/jp-kamakura--lantern--01.jpg"
-  },
-  {
     "id": "jp-kanazawa--blue--01",
     "title": "Blue",
     "country": "Japan",
@@ -317,6 +306,17 @@
     "filename": "jp-kanazawa--industrial--02.jpg",
     "large": "images/Large/jp-kanazawa--industrial--02.jpg",
     "thumb": "images/Thumbs/jp-kanazawa--industrial--02.jpg"
+  },
+  {
+    "id": "jp-kanazawa--lantern--01",
+    "title": "Lantern",
+    "country": "Japan",
+    "city": "Kanazawa",
+    "date_photographed": null,
+    "gps": null,
+    "filename": "jp-kanazawa--lantern--01.jpg",
+    "large": "images/Large/jp-kanazawa--lantern--01.jpg",
+    "thumb": "images/Thumbs/jp-kanazawa--lantern--01.jpg"
   },
   {
     "id": "jp-kanazawa--pokeman--01",
