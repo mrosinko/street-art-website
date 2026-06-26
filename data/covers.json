@@ -637,7 +637,6 @@
     "region": "Ishikawa Prefecture",
     "location": "Kanazawa City",
     "tags": [
-      "featured",
       "pictorial",
       "colorized",
       "circular",
@@ -772,7 +771,6 @@
     "region": "Ishikawa Prefecture",
     "location": "Kanazawa City",
     "tags": [
-      "featured",
       "pictorial",
       "colorized",
       "rectangular",
@@ -1012,14 +1010,22 @@
     "filename": "jp-kyoto--drain--01.jpg",
     "large": "images/Large/jp-kyoto--drain--01.jpg",
     "thumb": "images/Thumbs/jp-kyoto--drain--01.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kyoto Prefecture",
+    "location": "Kyoto City",
+    "tags": [
+      "geometric",
+      "industrial",
+      "rectangular",
+      "drainage grate",
+      "trench drain",
+      "maple leaves",
+      "momiji"
+    ],
+    "short_description": "Rectangular cast-iron drainage grate section with a maple leaf relief panel.",
+    "description": "A rectangular cast-iron drainage grate installed alongside a gravel and stone border walkway. The grate features standard vertical drainage slots framed by stylized wavy horizontal accent lines at the top and bottom edges. Integrated into the center of the grate profile is a solid square relief panel beautifully depicting a sprig of three Japanese maple leaves (Momiji).",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kyoto--drain--01.jpg'. A highly aesthetic structural treatment combining standard stormwater runoff function with Kyoto's classic seasonal foliage motifs."
   },
   {
     "id": "jp-kyoto--festival--01",
@@ -1031,14 +1037,25 @@
     "filename": "jp-kyoto--festival--01.jpg",
     "large": "images/Large/jp-kyoto--festival--01.jpg",
     "thumb": "images/Thumbs/jp-kyoto--festival--01.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "Commemorative cover for Kyoto Intercollegiate Festival.",
-    "description": "",
+    "region": "Kyoto Prefecture",
+    "location": "Kyoto City",
+    "tags": [
+      "featured",
+      "pictorial",
+      "colorized",
+      "circular",
+      "commemorative",
+      "kyoto student festival",
+      "torii",
+      "cranes",
+      "guitarist",
+      "dancer"
+    ],
+    "short_description": "Vibrantly painted commemorative cover celebrating the Kyoto Student Festival.",
+    "description": "A colorized circular manhole cover dedicated to the Kyoto Student Festival. The multi-colored graphic features a prominent pink-purple torii gate backed by traditional stylized horizontal white clouds. In the foreground, a modern student guitarist stands next to a dynamic traditional dancer performing in front of golden-yellow panels filled with stylized cranes and chrysanthemums. Bold black kanji along the top clouds reads '京都学生祭典' (Kyoto Student Festival).",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kyoto--festival--01.jpg'. This specialty design honors the massive annual festival organized entirely by Kyoto's massive university student population."
   },
   {
     "id": "jp-kyoto--fire--01",
@@ -1050,14 +1067,22 @@
     "filename": "jp-kyoto--fire--01.jpg",
     "large": "images/Large/jp-kyoto--fire--01.jpg",
     "thumb": "images/Thumbs/jp-kyoto--fire--01.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kyoto Prefecture",
+    "location": "Kyoto City",
+    "tags": [
+      "geometric",
+      "industrial",
+      "rectangular",
+      "fire utility",
+      "fire hydrant",
+      "city crest",
+      "diamond tread"
+    ],
+    "short_description": "Rectangular fire hydrant lid with high-visibility orange diamond tread panels.",
+    "description": "A compact rectangular cast-iron fire utility cover set flush into asphalt. The central section features a vertical unpainted title plate bearing the official Kyoto City wheel crest at the top, followed by large, deep-cast kanji reading '消火栓' (Fire Hydrant). This central column is flanked on both sides by high-visibility, skid-resistant safety panels painted a bright textured orange with a raised diamond-point tread configuration.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kyoto--fire--01.jpg'. A common municipal emergency asset design emphasizing roadside visibility and quick access for emergency crews."
   },
   {
     "id": "jp-kyoto--industrial--01",
@@ -1069,14 +1094,22 @@
     "filename": "jp-kyoto--industrial--01.jpg",
     "large": "images/Large/jp-kyoto--industrial--01.jpg",
     "thumb": "images/Thumbs/jp-kyoto--industrial--01.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kyoto Prefecture",
+    "location": "Kyoto City",
+    "tags": [
+      "geometric",
+      "industrial",
+      "circular",
+      "concentric",
+      "radial",
+      "unpainted",
+      "city crest"
+    ],
+    "short_description": "Vintage circular unpainted utility cover with concentric segments and a star-like city crest.",
+    "description": "A heavy-duty, weathered circular cast-iron utility cover set flush in asphalt. The surface is partitioned by raised thick bars into concentric rings, further divided into radiating wedge segments. Each segment contains either a raised hollow circular ring motif or a drainage puncture hole, alternating in a functional pattern. Dead-centered is a classic early variant of the Kyoto City six-pointed star-shaped emblem.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kyoto--industrial--01.jpg'. This shows a classic mid-century municipal design structure prioritizing efficient drainage and traction over pure aesthetics."
   },
   {
     "id": "jp-kyoto--industrial--02",
@@ -1088,14 +1121,21 @@
     "filename": "jp-kyoto--industrial--02.jpg",
     "large": "images/Large/jp-kyoto--industrial--02.jpg",
     "thumb": "images/Thumbs/jp-kyoto--industrial--02.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kyoto Prefecture",
+    "location": "Kyoto City",
+    "tags": [
+      "geometric",
+      "industrial",
+      "circular",
+      "repeating pattern",
+      "unpainted",
+      "city crest"
+    ],
+    "short_description": "Circular cast-iron manhole featuring a dense grid of repeating wheel-like micro-patterns.",
+    "description": "An unpainted circular cast-iron manhole cover surrounded by standard black aggregate pavement. The high-traction pattern consists of dozens of miniature, repeating concentric gear- or wheel-like medallions densely packed across the face. At the exact axis is a smooth raised circular ring enclosing the prominent Kyoto six-pointed star crest. A single utility notch breaks the bottom border next to a small blank rectangular label box.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kyoto--industrial--02.jpg'. An excellent example of standard anti-slip surface engineering utilizing a dense macro-micro layout pattern."
   },
   {
     "id": "jp-kyoto--industrial--03",
@@ -1107,14 +1147,24 @@
     "filename": "jp-kyoto--industrial--03.jpg",
     "large": "images/Large/jp-kyoto--industrial--03.jpg",
     "thumb": "images/Thumbs/jp-kyoto--industrial--03.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kyoto Prefecture",
+    "location": "Kyoto City",
+    "tags": [
+      "featured",
+      "pictorial",
+      "geometric",
+      "circular",
+      "utility lighting",
+      "cherry blossoms",
+      "sakura",
+      "fretwork",
+      "city crest"
+    ],
+    "short_description": "Aesthetic utility lighting cover combining a triangular fretwork grid with drifting cherry blossoms.",
+    "description": "A beautifully cast circular iron utility access hatch enclosed in a clean concrete collar. The background features a dense, geometric triangular mesh or basketweave fretwork pattern. Overlaid gracefully on top of this structure are naturalistic renderings of cherry blossom flowers (Sakura) of varying sizes, concentrated heavily along the left and upper right margins as if drifting across the face. The center medallion holds the six-pointed city crest above clear kanji reading '照明' (Shomei - Lighting).",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kyoto--industrial--03.jpg'. A highly elegant municipal adaptation showing how industrial lighting utilities can blend beautifully with traditional cultural symbols."
   },
   {
     "id": "jp-kyoto--industrial--04",
@@ -1126,14 +1176,21 @@
     "filename": "jp-kyoto--industrial--04.jpg",
     "large": "images/Large/jp-kyoto--industrial--04.jpg",
     "thumb": "images/Thumbs/jp-kyoto--industrial--04.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kyoto Prefecture",
+    "location": "Kyoto City",
+    "tags": [
+      "geometric",
+      "industrial",
+      "circular",
+      "wastewater",
+      "prefectural crest",
+      "honeycomb"
+    ],
+    "short_description": "Kyoto Prefectural circular wastewater cover with a clean honeycomb mesh texture.",
+    "description": "A dark cast-iron circular utility cover set into a river-pebble aggregate stone path. The field pattern is an immaculate, continuous geometric honeycomb mesh structure. A circular medallion in the core contains the stylized six-petaled chrysanthemum/leaf hybrid emblem representing Kyoto Prefecture. Arced text frames the center; the top banner reads '京都府' (Kyoto Prefecture) and the bottom reads '汚水' (Osui - Wastewater).",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kyoto--industrial--04.jpg'. Highlights the administrative distinction between Kyoto City infrastructure and Kyoto Prefectural jurisdiction using specialized crest layouts."
   },
   {
     "id": "jp-kyoto--industrial--05",
@@ -1145,14 +1202,22 @@
     "filename": "jp-kyoto--industrial--05.jpg",
     "large": "images/Large/jp-kyoto--industrial--05.jpg",
     "thumb": "images/Thumbs/jp-kyoto--industrial--05.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kyoto Prefecture",
+    "location": "Kyoto City",
+    "tags": [
+      "geometric",
+      "industrial",
+      "circular",
+      "telecommunications",
+      "cross pattern",
+      "fretwork",
+      "utility logo"
+    ],
+    "short_description": "Heavy telecommunications manhole cover with a repeating cross pattern grid.",
+    "description": "A dark circular utility access lid bordered by aggregate masonry. The surface profile is composed of an interlocking grid of geometric Greek crosses and square boxes, stamped near the upper center with 'T-25' indicating heavy vehicle load rating. The center features a corporate or utility logo consisting of a stylized swirling emblem within a gear ring. A bottom arched title text banner clearly denotes '通信' (Tsushin - Telecommunications).",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kyoto--industrial--05.jpg'. A heavy-duty, high-load industrial utility hatch dedicated to subsurface communication or fiber line networks."
   },
   {
     "id": "jp-kyoto--industrial--06",
@@ -1164,14 +1229,22 @@
     "filename": "jp-kyoto--industrial--06.jpg",
     "large": "images/Large/jp-kyoto--industrial--06.jpg",
     "thumb": "images/Thumbs/jp-kyoto--industrial--06.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kyoto Prefecture",
+    "location": "Kyoto City",
+    "tags": [
+      "geometric",
+      "industrial",
+      "circular",
+      "fire utility",
+      "fire cistern",
+      "city crest",
+      "concentric"
+    ],
+    "short_description": "Heavy-duty fire safety cistern cover with distinct concentric segments and bold kanji identifiers.",
+    "description": "A thick, heavily structured circular cast-iron emergency access cover set into a smooth concrete rim. Similar to historical grid layouts, it features a central six-pointed city crest ringed by alternating wedge segments containing drainage punch holes and hollow circles. The wide outer ring contains structural handle notches flanked by massive, deeply embossed kanji character labels reading '防火水槽' (Boka Suiso - Fire Prevention Water Cistern) along the top arch and '京都市消防局' (Kyoto-shi Shobokyoku - Kyoto City Fire Department) on the bottom.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kyoto--industrial--06.jpg'. Historically placed on temple grounds, historical districts, and public squares to access dedicated fire suppression water reservoirs."
   },
   {
     "id": "jp-kyoto--industrial--07",
@@ -1183,14 +1256,22 @@
     "filename": "jp-kyoto--industrial--07.jpg",
     "large": "images/Large/jp-kyoto--industrial--07.jpg",
     "thumb": "images/Thumbs/jp-kyoto--industrial--07.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kyoto Prefecture",
+    "location": "Kyoto City",
+    "tags": [
+      "geometric",
+      "industrial",
+      "circular",
+      "water utility",
+      "brick pattern",
+      "city crest",
+      "suikyo"
+    ],
+    "short_description": "Kyoto City waterworks utility cover with a faux-brick pavement pattern.",
+    "description": "A circular cast-iron utility cap set flush in textured pavement. The unique background pattern mimics stacked horizontal running-bond masonry bricks. The center features a large version of the old round Kyoto City corporate wheel logo. Arcuate text plaques frame the top and bottom edges; the upper banner reads '京都市指定' (Designated by Kyoto City) while the lower reads in clean western alphabet characters 'SUIKYO' (signifying the Kyoto City Waterworks Bureau).",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kyoto--industrial--07.jpg'. Displays an appealing blend of western alphabet typography alongside classic industrial faux-brick textures."
   },
   {
     "id": "jp-kyoto--industrial--08",
@@ -1202,14 +1283,21 @@
     "filename": "jp-kyoto--industrial--08.jpg",
     "large": "images/Large/jp-kyoto--industrial--08.jpg",
     "thumb": "images/Thumbs/jp-kyoto--industrial--08.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kyoto Prefecture",
+    "location": "Kyoto City",
+    "tags": [
+      "geometric",
+      "industrial",
+      "circular",
+      "electrical utility",
+      "basketweave",
+      "city crest"
+    ],
+    "short_description": "High-traction basketweave pattern electrical utility manhole cover.",
+    "description": "An unpainted circular cast-iron electrical line hatch surrounded by a stone paving ring. The high-friction surface is defined by a standard repeating basketweave or alternating horizontal-vertical block tread layout. Two decorative decorative crest frames flank the left and right center. The centerpiece is a circular medallion containing the six-pointed Kyoto star crest, flanked internally by small kanji characters indicating '関西電力' (Kansai Electric Power) or '関西電化' utilities.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kyoto--industrial--08.jpg'. This generic texture balances high structural traction for pedestrian safety over underground electrical transmission routes."
   },
   {
     "id": "jp-kyoto--industrial--09",
@@ -1221,14 +1309,21 @@
     "filename": "jp-kyoto--industrial--09.jpg",
     "large": "images/Large/jp-kyoto--industrial--09.jpg",
     "thumb": "images/Thumbs/jp-kyoto--industrial--09.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kyoto Prefecture",
+    "location": "Kyoto City",
+    "tags": [
+      "industrial",
+      "circular",
+      "stone-infilled",
+      "disguised",
+      "ccb",
+      "utility logo"
+    ],
+    "short_description": "Stone-infilled disguised utility cover designed to match surrounding historic flagstone paving.",
+    "description": "A highly specialized disguised or recessed circular utility hatch embedded into a traditional historic stone walkway. The iron frame of the circle is divided internally into structural paving blocks, which have been painstakingly infilled with textured, rough gray granite flagstone paste to seamlessly camouflage with the surrounding pavement environment. Dead-center is a small square bronze utility plaque stamped with 'C.C.B.' (Common Utility Duct) surrounding a central star-spoke municipal/utility logo.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kyoto--industrial--09.jpg'. Often utilized across highly preserved cultural heritage zones in Kyoto to minimize visual pollution from necessary modern infrastructure."
   },
   {
     "id": "jp-kyoto--industrial--10",
@@ -1240,14 +1335,21 @@
     "filename": "jp-kyoto--industrial--10.jpg",
     "large": "images/Large/jp-kyoto--industrial--10.jpg",
     "thumb": "images/Thumbs/jp-kyoto--industrial--10.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kyoto Prefecture",
+    "location": "Kyoto City",
+    "tags": [
+      "industrial",
+      "circular",
+      "stone-infilled",
+      "sewerage",
+      "combined system",
+      "city crest"
+    ],
+    "short_description": "Recessed stone-paved sewerage frame indicating combined sewer flows.",
+    "description": "A recessed circular cast-iron utility collar designed to accommodate flagstone paving infill to match the surrounding stone plaza. Unlike a full metal plate, the central field exposes the natural gray masonry pavement blocks beneath it. The upper crescent portion of the metal ring remains exposed, containing a raised six-pointed Kyoto city star crest to the left, and an integrated raised title box to the right reading '合流' (Goryu - Combined Sewer System).",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kyoto--industrial--10.jpg'. Indicates a shared utility line managing both domestic wastewater and surface stormwater runoff synchronously."
   },
   {
     "id": "jp-kyoto--industrial--11",
@@ -1259,14 +1361,22 @@
     "filename": "jp-kyoto--industrial--11.jpg",
     "large": "images/Large/jp-kyoto--industrial--11.jpg",
     "thumb": "images/Thumbs/jp-kyoto--industrial--11.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kyoto Prefecture",
+    "location": "Kyoto City",
+    "tags": [
+      "industrial",
+      "circular",
+      "stone-infilled",
+      "disguised",
+      "sewerage",
+      "combined system",
+      "city crest"
+    ],
+    "short_description": "Recessed stone-paved utility cover blending with pedestrian plaza flagstones.",
+    "description": "A circular cast-iron frame embedded seamlessly into a multicolored granite paving grid. The interior of the cover is filled with matching rectangular stone tiles to disguise its presence. The central metal hub features the raised six-pointed Kyoto city star crest, and a prominent rectangular plaque at the bottom reads '合流' (Goryu), denoting a combined stormwater and sewage system.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kyoto--industrial--11.jpg'. This design preserves the visual continuity of high-end pedestrian walkways in historic or commercial zones."
   },
   {
     "id": "jp-kyoto--industrial--12",
@@ -1278,14 +1388,21 @@
     "filename": "jp-kyoto--industrial--12.jpg",
     "large": "images/Large/jp-kyoto--industrial--12.jpg",
     "thumb": "images/Thumbs/jp-kyoto--industrial--12.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kyoto Prefecture",
+    "location": "Kyoto City",
+    "tags": [
+      "industrial",
+      "circular",
+      "ornate",
+      "arabesque",
+      "drainage",
+      "unpainted"
+    ],
+    "short_description": "Classic cast-iron drainage sump cover with an elegant arabesque scrollwork border.",
+    "description": "An unpainted circular cast-iron utility cover framed by a smooth granite ring. The outer perimeter is decorated with a deeply cast, flowing arabesque or scrollwork pattern. The recessed inner section features several drainage release holes and raised kanji characters arranged circularly, including '排水溜枡' (Haasui Tamemasu), indicating its function as a drainage sump or catch basin.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kyoto--industrial--12.jpg'. A beautiful example of blending decorative traditional scroll aesthetics with utilitarian water management hardware."
   },
   {
     "id": "jp-kyoto--industrial--13",
@@ -1297,14 +1414,21 @@
     "filename": "jp-kyoto--industrial--13.jpg",
     "large": "images/Large/jp-kyoto--industrial--13.jpg",
     "thumb": "images/Thumbs/jp-kyoto--industrial--13.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kyoto Prefecture",
+    "location": "Kyoto City",
+    "tags": [
+      "industrial",
+      "circular",
+      "geometric",
+      "textured",
+      "combined system",
+      "city crest"
+    ],
+    "short_description": "High-traction utility cover with a dense, textured hexagonal rosette pattern.",
+    "description": "A dark, circular cast-iron manhole cover set flush in brushed concrete. The entire face is covered in a highly dense anti-slip pattern composed of miniature raised dots clustered into interlocking hexagonal rosettes. A small six-pointed Kyoto city crest sits dead-center. Two text tabs are integrated along the upper rim: the right side reads 'きょうとし' (Kyoto-shi) and the left reads 'ごうりゅう' (Goryu - Combined Sewer).",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kyoto--industrial--13.jpg'. Optimized for pedestrian safety and maximum traction while displaying standard municipal branding in hiragana."
   },
   {
     "id": "jp-kyoto--pokeman--01",
@@ -1316,14 +1440,23 @@
     "filename": "jp-kyoto--pokeman--01.jpg",
     "large": "images/Large/jp-kyoto--pokeman--01.jpg",
     "thumb": "images/Thumbs/jp-kyoto--pokeman--01.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kyoto Prefecture",
+    "location": "Kyoto City",
+    "tags": [
+      "featured",
+      "pictorial",
+      "circular",
+      "painted",
+      "pokemon",
+      "pokefuta",
+      "cyndaquil",
+      "darmanitan"
+    ],
+    "short_description": "Official PokéFuta utility cover featuring Cyndaquil and Darmanitan.",
+    "description": "A vibrant, fully painted collaborative Pokémon manhole cover ('Pokéfuta') set into a gravel-aggregate walkway. The design depicts Cyndaquil (ヒノアラシ) looking upward on a stone path next to a fiery Darmanitan (ヒヒダルma) framed by stone temple lanterns and stylized greenery. The beige outer border contains the character names in katakana, 'きょうと' (Kyoto) in hiragana, and the official corporate copyright stamp.",
     "foundry": "",
-    "artist": "",
-    "notes": ""
+    "artist": "Nintendo / Creatures Inc. / GAME FREAK inc.",
+    "notes": "Referenced in file 'jp-kyoto--pokeman--01.jpg'. Part of Japan's country-wide tourism initiative linking regional discovery with iconic pop-culture designs."
   },
   {
     "id": "jp-kyoto--pokeman--02",
@@ -1335,14 +1468,23 @@
     "filename": "jp-kyoto--pokeman--02.jpg",
     "large": "images/Large/jp-kyoto--pokeman--02.jpg",
     "thumb": "images/Thumbs/jp-kyoto--pokeman--02.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kyoto Prefecture",
+    "location": "Kyoto City",
+    "tags": [
+      "featured",
+      "pictorial",
+      "circular",
+      "painted",
+      "pokemon",
+      "pokefuta",
+      "ho-oh",
+      "pagoda"
+    ],
+    "short_description": "Official PokéFuta utility cover featuring the Legendary Pokémon Ho-Oh flying over Kyoto.",
+    "description": "A colorful painted Pokéfuta utility lid showcasing the Legendary Pokémon Ho-Oh (ホウオウ) soaring majestically across a golden sky. In the background, a traditional five-story Japanese pagoda and rolling green mountains pay homage to Kyoto's iconic historical landscape. The dark outer frame carries the name typography and regional destination label.",
     "foundry": "",
-    "artist": "",
-    "notes": ""
+    "artist": "Nintendo / Creatures Inc. / GAME FREAK inc.",
+    "notes": "Referenced in file 'jp-kyoto--pokeman--02.jpg'. Ho-Oh is a highly fitting choice for Kyoto, drawing direct thematic inspiration from the Johto region's traditional aesthetic."
   },
   {
     "id": "jp-kyoto--pokeman--03",
@@ -1354,14 +1496,25 @@
     "filename": "jp-kyoto--pokeman--03.jpg",
     "large": "images/Large/jp-kyoto--pokeman--03.jpg",
     "thumb": "images/Thumbs/jp-kyoto--pokeman--03.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kyoto Prefecture",
+    "location": "Kyoto City",
+    "tags": [
+      "featured",
+      "pictorial",
+      "circular",
+      "painted",
+      "pokemon",
+      "pokefuta",
+      "pichu",
+      "cleffa",
+      "igglybuff",
+      "cherry blossoms"
+    ],
+    "short_description": "Official PokéFuta utility cover featuring Pichu, Cleffa, and Igglybuff under cherry blossoms.",
+    "description": "A beautifully painted circular Pokémon utility hatch showing baby Pokémon Pichu (ピチュウ), Cleffa (ピィ), and Igglybuff (ププリン) joyfully playing around a blooming pink cherry blossom (sakura) tree. The pastoral scene is set against a bright blue sky backdrop, surrounded by a clean cream-colored border listing the featured characters and 'きょうと'.",
     "foundry": "",
-    "artist": "",
-    "notes": ""
+    "artist": "Nintendo / Creatures Inc. / GAME FREAK inc.",
+    "notes": "Referenced in file 'jp-kyoto--pokeman--03.jpg'. A soft, cheerful seasonal display highlighting spring flora alongside popular franchise mascots."
   },
   {
     "id": "jp-kyoto--pokeman--04",
@@ -1373,14 +1526,24 @@
     "filename": "jp-kyoto--pokeman--04.jpg",
     "large": "images/Large/jp-kyoto--pokeman--04.jpg",
     "thumb": "images/Thumbs/jp-kyoto--pokeman--04.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kyoto Prefecture",
+    "location": "Kyoto City",
+    "tags": [
+      "featured",
+      "pictorial",
+      "circular",
+      "painted",
+      "mascot",
+      "fireflies",
+      "wisteria",
+      "azaleas",
+      "waterworks"
+    ],
+    "short_description": "Brightly painted Kyoto City Waterworks cover featuring firefly mascots and local flora.",
+    "description": "A highly colorful municipal utility cover displaying two cheerful cartoon firefly mascots dressed with bowties, flying amidst bright pink azalea blossoms. Hanging down from the top are elegant clusters of purple wisteria branches. The top left corner displays the welcoming Kyoto greeting 'おこしやす' (Okoshiyasu), while the bottom text reads '京都市 上下水道局' (Kyoto City Water and Sewerage Bureau).",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kyoto--pokeman--04.jpg'. This design highlights the clean water required for fireflies to thrive, symbolizing the environmental success of the local water system."
   },
   {
     "id": "jp-kyoto--street-plate--01",
@@ -1392,14 +1555,21 @@
     "filename": "jp-kyoto--street-plate--01.jpg",
     "large": "images/Large/jp-kyoto--street-plate--01.jpg",
     "thumb": "images/Thumbs/jp-kyoto--street-plate--01.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kyoto Prefecture",
+    "location": "Kyoto City",
+    "tags": [
+      "pictorial",
+      "square",
+      "bronze",
+      "directional",
+      "map",
+      "morning glories"
+    ],
+    "short_description": "Inlaid bronze directional street marker for the Teramachi and Nishikikoji intersection.",
+    "description": "A square, polished bronze geographical orientation plate embedded into paving stones. The center features a detailed 16-point nautical compass rose indicating North. The four directional axes explicitly label the intersecting pathways in both kanji and English: '寺町通' (Teramachi-dori) and '錦小路通' (Nishikikoji-dori), equipped with directional arrow pointers. The corners are adorned with relief carvings of morning glory vines.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kyoto--street-plate--01.jpg'. Placed directly in the pavement at major pedestrian cross-points to assist tourists navigating the market grid."
   },
   {
     "id": "jp-kyoto--street-plate--02",
@@ -1411,14 +1581,20 @@
     "filename": "jp-kyoto--street-plate--02.jpg",
     "large": "images/Large/jp-kyoto--street-plate--02.jpg",
     "thumb": "images/Thumbs/jp-kyoto--street-plate--02.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Kyoto Prefecture",
+    "location": "Kyoto City",
+    "tags": [
+      "industrial",
+      "square",
+      "sewerage",
+      "historical mark",
+      "unpainted"
+    ],
+    "short_description": "Square vintage cast-iron sewer utility cap with classic municipal branding.",
+    "description": "A heavy square cast-iron utility access plate sitting in dirt and ground debris. The central area features a raised circular ring motif framing an early iteration of the municipal waterworks insignia—a six-spoked variant wheel. Below the central emblem, two bold, raised kanji characters state '下水' (Gesui), marking it directly as a subsurface sewage line node.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kyoto--street-plate--02.jpg'. A rugged, old-school industrial layout that emphasizes pure utility and longevity over modern cosmetic paint styles."
   },
   {
     "id": "jp-matsumoto--balls--01",
