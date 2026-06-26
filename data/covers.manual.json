@@ -309,14 +309,22 @@
   },
   {
     "id": "jp-ise-shima--pilgrimage-no-color--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Mie Prefecture",
+    "location": "Ise City",
+    "tags": [
+      "pictorial",
+      "unpainted",
+      "okage-mairi",
+      "pilgrims",
+      "edo period",
+      "historical",
+      "sewerage"
+    ],
+    "short_description": "Unpainted relief variant of the Ise pilgrim scene.",
+    "description": "An unpainted, raw cast-iron circular wastewater cover utilizing the exact same 'Okage-mairi' pilgrimage illustration as the colorized version. The relief details the expressions, woven textures of the straw hats, and walking staffs of the five historic travelers. The large characters for '伊勢' (Ise) remain prominent at the top, and the text 'おすい' (Osui - Wastewater) is embedded along the bottom rim.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "The standard, unpainted street-level deployment of Ise's iconic historical narrative layout."
   },
   {
     "id": "jp-kamakura--fire--01",
