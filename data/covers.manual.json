@@ -1,5 +1,27 @@
 [
   {
+    "id": "jp-chubu-sangaku-national-park--animal--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-chubu-sangaku-national-park--animal--02",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
     "id": "jp-hakone--ducks--01",
     "region": "Kanagawa Prefecture",
     "location": "Hakone Town",
@@ -213,39 +235,26 @@
     "notes": "Installed as part of the official 'Gundam Manhole Project' to boost local tourism and celebrate the city's landmarks."
   },
   {
-    "id": "jp-ise-shima--circular-01",
+    "id": "jp-ise-shima--circular--01",
     "region": "",
     "location": "",
-    "tags": [
-      "geometric",
-      "industrial",
-      "radial",
-      "unpainted",
-      "concentric",
-      "circles"
-    ],
-    "short_description": "Unpainted cast-iron cover with a radial geometric pattern.",
-    "description": "An unpainted, circular cast-iron utility cover featuring a clean, geometric layout. The design is structured around concentric circles intersected by radial lines, creating a grid of panels. Within the outer rings, each section houses a stylized circular motif with a central dot, while the exact center of the manhole remains a smooth, unadorned circular plate.",
+    "tags": [],
+    "short_description": "",
+    "description": "",
     "foundry": "",
     "artist": "",
-    "notes": "Photographed on a gravel walkway surface, showcasing a utility design focused entirely on geometric symmetry and traction."
+    "notes": ""
   },
   {
-    "id": "jp-ise-shima--fire-01",
+    "id": "jp-ise-shima--fire--01",
     "region": "",
     "location": "",
-    "tags": [
-      "fire utility",
-      "rectangular",
-      "honeycomb",
-      "water utility",
-      "no parking"
-    ],
-    "short_description": "Rectangular fire hydrant lid with a textured honeycomb grid.",
-    "description": "A high-visibility rectangular utility cover set flush into sidewalk tiling. The central cast-iron plate features a dense, skid-resistant honeycomb traction pattern. Raised kanji on the plate reads '上水道' (Waterworks) at the top, '消火栓' (Fire Hydrant) at the bottom, and a large central circle enclosing the character '水' (Water). The surrounding frame is painted tan with bold red corner blocks containing the warning text '駐', '車', '禁', '止' (No Parking).",
+    "tags": [],
+    "short_description": "",
+    "description": "",
     "foundry": "",
     "artist": "",
-    "notes": "A standard municipal emergency infrastructure asset optimizing street visibility and safety compliance."
+    "notes": ""
   },
   {
     "id": "jp-ise-shima--pilgrimage--01",
@@ -268,23 +277,169 @@
     "notes": "This signature design beautifully honors Ise's deep cultural history as Japan's ultimate pilgrimage destination."
   },
   {
-    "id": "jp-ise-shima--pilgrimage-no-color.01",
+    "id": "jp-ise-shima--pilgrimage-no-color--01",
     "region": "",
     "location": "",
-    "tags": [
-      "pictorial",
-      "unpainted",
-      "okage-mairi",
-      "pilgrims",
-      "edo period",
-      "historical",
-      "sewerage"
-    ],
-    "short_description": "Unpainted relief variant of the Ise pilgrim scene.",
-    "description": "An unpainted, raw cast-iron circular wastewater cover utilizing the exact same 'Okage-mairi' pilgrimage illustration as the colorized version. The relief details the expressions, woven textures of the straw hats, and walking staffs of the five historic travelers. The large characters for '伊勢' (Ise) remain prominent at the top, and the text 'おすい' (Osui - Wastewater) is embedded along the bottom rim.",
+    "tags": [],
+    "short_description": "",
+    "description": "",
     "foundry": "",
     "artist": "",
-    "notes": "The standard, unpainted street-level deployment of Ise's iconic historical narrative layout."
+    "notes": ""
+  },
+  {
+    "id": "jp-kamakura--fire--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kamakura--flower--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kamakura--industrial--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kamakura--industrial--02",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kamakura--industrial--03",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kamakura--industrial--04",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kamakura--lantern--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kanazawa--blue--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kanazawa--drain--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kanazawa--green--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kanazawa--industrial--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kanazawa--industrial--02",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kanazawa--pokeman--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kanazawa--street-plaque--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
   },
   {
     "id": "jp-kawaguchiko--bridge--01",
@@ -397,11 +552,352 @@
     "notes": "Referenced in file 'jp-kawaguchiko--squirrels--01.jpg'. A highly sought-after legacy design from the former Katsuyama Village area before it merged into modern Fujikawaguchiko."
   },
   {
+    "id": "jp-kyoto--drain--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
     "id": "jp-kyoto--festival--01",
     "region": "",
     "location": "",
     "tags": [],
     "short_description": "Commemorative cover for Kyoto Intercollegiate Festival.",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kyoto--fire--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kyoto--industrial--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kyoto--industrial--02",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kyoto--industrial--03",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kyoto--industrial--04",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kyoto--industrial--05",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kyoto--industrial--06",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kyoto--industrial--07",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kyoto--industrial--08",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kyoto--industrial--09",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kyoto--industrial--10",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kyoto--industrial--11",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kyoto--industrial--12",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kyoto--industrial--13",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kyoto--pokeman--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kyoto--pokeman--02",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kyoto--pokeman--03",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kyoto--pokeman--04",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kyoto--street-plate--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-kyoto--street-plate--02",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-matsumoto--balls--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-matsumoto--balls--02",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-matsumoto--circular-with-logo--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-matsumoto--drain-with-balls--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-matsumoto--eagle--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-matsumoto--fire--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-matsumoto--green-logo--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-matsumoto--green-logo--02",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-matsumoto--green-logo--03",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-matsumoto--green-logo--04",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
     "description": "",
     "foundry": "",
     "artist": "",
@@ -711,6 +1207,138 @@
     "notes": "A functional, non-colorized industrial design prioritizing drainage slip-resistance while retaining the signature water-wave motif of the region."
   },
   {
+    "id": "jp-shirakawa-go--houses--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-takayama--drain--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-takayama--flowers--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-takayama--flowers--02",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-takayama--flowers--03",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-takayama--flowers-color--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-takayama--industrial--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-takayama--industrial--02",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-takayama--pokeman--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-tokyo--chicken--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-tokyo--drain-with-flowers--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-tokyo--elephant--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
     "id": "jp-tokyo--fire--01",
     "region": "Tokyo Prefecture",
     "location": "Tokyo Metropolis",
@@ -749,6 +1377,17 @@
     "notes": "Referenced in file 'jp-tokyo--flower--01.jpg'. This iconic design has been an enduring public design staple across the capital for decades."
   },
   {
+    "id": "jp-tokyo--flower--02",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
     "id": "jp-tokyo--flower-w-color-dots--01",
     "region": "Tokyo Prefecture",
     "location": "Tokyo Metropolis",
@@ -769,6 +1408,50 @@
     "notes": "Referenced in file 'jp-tokyo--flower-w-color-dots--01.jpg'. The colored tracking tokens indicate municipal maintenance data, structural indexing, or specific inspection timelines."
   },
   {
+    "id": "jp-tokyo--flowers--02",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-tokyo--flowers-01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-tokyo--godzilla--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-tokyo--godzilla--02",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
     "id": "jp-tokyo--great-wave--01",
     "region": "Tokyo Prefecture",
     "location": "Sumida Ward",
@@ -787,6 +1470,17 @@
     "foundry": "",
     "artist": "Katsushika Hokusai",
     "notes": "Referenced in file 'jp-tokyo--great-wave--01.jpg'. This public art installation celebrates Sumida Ward as the birthplace of the legendary ukiyo-e master Hokusai."
+  },
+  {
+    "id": "jp-tokyo--hachiko--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
   },
   {
     "id": "jp-tokyo--industrial--02",
@@ -842,6 +1536,28 @@
     "notes": "Referenced in file 'jp-tokyo--industrial--04.jpg'. A utility-focused asset optimized for public roads and sidewalks."
   },
   {
+    "id": "jp-tokyo--pokeman--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-tokyo--pokeman--02",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
     "id": "jp-tokyo--sailor-moon--01",
     "region": "Tokyo Prefecture",
     "location": "Minato Ward",
@@ -878,6 +1594,17 @@
     "foundry": "",
     "artist": "Naoko Takeuchi",
     "notes": "Referenced in file 'jp-tokyo--sailor-moon--02.jpg'. Another highly sought-after installment of the 2024 Minato Ward pop-culture design rollouts."
+  },
+  {
+    "id": "jp-tokyo--trees--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
   },
   {
     "id": "jp-uji--city-scape--01",
@@ -1087,5 +1814,390 @@
     "foundry": "",
     "artist": "",
     "notes": "The markings include 仕切弁, meaning gate valve or shutoff valve, and 宇治市, meaning Uji City. The numbers and letters, including 75 and S, may indicate pipe size, valve type, or maintenance classification."
+  },
+  {
+    "id": "jp-yokohama--bridge--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-yokohama--city-logo--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-yokohama--city-with-boat--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-yokohama--fire--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-yokohama--pokeman--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-yokohama--pokeman--02",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-yokohama--pokeman--03",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-yokohama--ship--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "jp-yokohama--street-plaque--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "tw-taipei--city-view--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "tw-taipei--city-view--02",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "tw-taipei--city-view--03",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "tw-taipei--city-view--04",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "tw-taipei--city-view--05",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "tw-taipei--dadaocheng--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "tw-taipei--dihua-street--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "tw-taipei--dihua-street--02",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "tw-taipei--dihua-street--03",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "tw-taipei--dihua-street--04",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "tw-taipei--dihua-street--05",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "tw-taipei--dihua-street--06",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "tw-taipei--flower--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "tw-taipei--industrial--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "tw-taipei--industrial--02",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "tw-taipei--large-street-plaque--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "tw-taipei--large-street-plaque--02",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "tw-taipei--large-street-plaque--03",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "tw-taipei--large-street-plaque--04",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "tw-taipei--street-plaque--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "tw-taipei--street-plaque--02",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "tw-taipei--taipei--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "tw-taipei--taipei-101--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "tw-taipei--taipei-101--02",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "tw-taipei--trees-and-fish--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
+  },
+  {
+    "id": "tw-taipei--trees-fish-birds--01",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
+    "foundry": "",
+    "artist": "",
+    "notes": ""
   }
 ]
