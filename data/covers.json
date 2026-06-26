@@ -21,7 +21,7 @@
       "clouds",
       "sewerage"
     ],
-    "short_description": "Colorized circular manhole cover featuring an ermine and mountain scenery.",
+    "short_description": "Colorized circular cover featuring an ermine and mountain scenery.",
     "description": "A circular cast-iron sewer cover painted with green, light blue, and white accents. The main design depicts a stylized, cartoon-like ermine (stoat) in the foreground, set against a background of rugged mountain peaks and rolling clouds. Text at the top reads '高山市' (Takayama City) in a light blue banner, and text to the right reads '奥飛騨温泉郷' (Okuhida Onsengo). A light blue ribbon under the animal reads '下水道' (Sewerage), and the central circular emblem displays the former Kamitara village crest.",
     "foundry": "",
     "artist": "",
@@ -50,7 +50,7 @@
       "sewerage"
     ],
     "short_description": "Unpainted variant of the Okuhida Onsengo ermine cover.",
-    "description": "An unpainted, raw cast-iron circular manhole cover featuring the same alpine design as the colorized version. It illustrates a stylized ermine with mountains and clouds in low-relief texture. Instead of kanji banners at the top right, this casting variant features a central ribbon reading 'OKUHIDA' in English block lettering next to the central crest, a small top arc reading '平湯' (Hirayu), and '下水道' (Sewerage) along the bottom banner.",
+    "description": "An unpainted, raw cast-iron circular cover featuring the same alpine design as the colorized version. It illustrates a stylized ermine with mountains and clouds in low-relief texture. Instead of kanji banners at the top right, this casting variant features a central ribbon reading 'OKUHIDA' in English block lettering next to the central crest, a small top arc reading '平湯' (Hirayu), and '下水道' (Sewerage) along the bottom banner.",
     "foundry": "",
     "artist": "",
     "notes": "Referenced in file 'jp-chubu-sangaku-national-park--animal--02.jpg'. A textured, high-traction variant of the Okuhida design series found near the Hirayu Onsen area."
@@ -298,7 +298,7 @@
       "shirasagi-jo"
     ],
     "short_description": "Commemorative Gundam cover standing beside Himeji Castle.",
-    "description": "A beautifully detailed, colorized circular manhole cover featuring the legendary RX-78-2 Gundam standing prominently in defense beside the grand multi-tiered main keep of Himeji Castle (White Heron Castle). The background consists of geometric sky shards in shades of purple and blue. A salmon pink text block at the bottom reads '姫路城' (Himeji Castle). The off-white outer border is boldly inscribed with 'HIMEJI', 'RX-78-2 GUNDAM', and '©SOTSU・SUNRISE'.",
+    "description": "A beautifully detailed, colorized circular cover featuring the legendary RX-78-2 Gundam standing prominently in defense beside the grand multi-tiered main keep of Himeji Castle (White Heron Castle). The background consists of geometric sky shards in shades of purple and blue. A salmon pink text block at the bottom reads '姫路城' (Himeji Castle). The off-white outer border is boldly inscribed with 'HIMEJI', 'RX-78-2 GUNDAM', and '©SOTSU・SUNRISE'.",
     "foundry": "",
     "artist": "Kunio Okawara",
     "notes": "Part of the highly celebrated nationwide 'Gundam Manhole Project' initiative to blend pop culture with historic local heritage."
@@ -323,7 +323,7 @@
       "sewerage"
     ],
     "short_description": "Standard unpainted wastewater cover with honeycomb traction grid.",
-    "description": "An unpainted, circular cast-iron wastewater manhole cover featuring a dense, skid-resistant honeycomb pattern across its surface. Small raised circular tokens are distributed evenly around the midsection of the grid. The center contains a circular emblem with the Himeji city crest—a stylized representation of a white heron pattern. A small curved banner at the bottom contains the text 'おすい' (Osui - Wastewater).",
+    "description": "An unpainted, circular cast-iron wastewater cover featuring a dense, skid-resistant honeycomb pattern across its surface. Small raised circular tokens are distributed evenly around the midsection of the grid. The center contains a circular emblem with the Himeji city crest—a stylized representation of a white heron pattern. A small curved banner at the bottom contains the text 'おすい' (Osui - Wastewater).",
     "foundry": "",
     "artist": "",
     "notes": "A utility-focused street asset commonly found throughout urban areas of Himeji."
@@ -351,7 +351,7 @@
       "pop culture"
     ],
     "short_description": "Colorized Gundam cover featuring Zaku II and museum.",
-    "description": "A striking circular commemorative manhole cover painted in olive green, red-brown, salmon pink, and cream tones. The design depicts the iconic MS-06F Zaku II mobile suit wielding a Heat Hawk axe. In the foreground is a detailed rendering of the historic red-brick Himeji City Museum of Art, with the silhouette of Himeji Castle visible in the background. A prominent yellow title block reads '姫路市立美術館' (Himeji City Museum of Art). The outer lime green rim is labeled 'HIMEJI', 'MS-06F Zaku II', and '©SOTSU・SUNRISE'.",
+    "description": "A striking circular commemorative cover painted in olive green, red-brown, salmon pink, and cream tones. The design depicts the iconic MS-06F Zaku II mobile suit wielding a Heat Hawk axe. In the foreground is a detailed rendering of the historic red-brick Himeji City Museum of Art, with the silhouette of Himeji Castle visible in the background. A prominent yellow title block reads '姫路市立美術館' (Himeji City Museum of Art). The outer lime green rim is labeled 'HIMEJI', 'MS-06F Zaku II', and '©SOTSU・SUNRISE'.",
     "foundry": "",
     "artist": "Kunio Okawara",
     "notes": "Installed as part of the official 'Gundam Manhole Project' to boost local tourism and celebrate the city's landmarks."
@@ -377,7 +377,7 @@
       "circles"
     ],
     "short_description": "Unpainted cast-iron cover with a radial geometric pattern.",
-    "description": "An unpainted, circular cast-iron utility cover featuring a clean, geometric layout. The design is structured around concentric circles intersected by radial lines, creating a grid of panels. Within the outer rings, each section houses a stylized circular motif with a central dot, while the exact center of the manhole remains a smooth, unadorned circular plate.",
+    "description": "An unpainted, circular cast-iron utility cover featuring a clean, geometric layout. The design is structured around concentric circles intersected by radial lines, creating a grid of panels. Within the outer rings, each section houses a stylized circular motif with a central dot, while the exact center of the cover remains a smooth, unadorned circular plate.",
     "foundry": "",
     "artist": "",
     "notes": "Photographed on a gravel walkway surface, showcasing a utility design focused entirely on geometric symmetry and traction."
@@ -539,8 +539,8 @@
       "gentian",
       "crest"
     ],
-    "short_description": "Unpainted diamond grid manhole featuring Kamakura's gentian crest.",
-    "description": "A classic circular cast-iron utility manhole cover with a raised diamond-shaped cross-hatch traction grid across its entire surface. At the geometric center, a smooth circular medallion contains the historical Kamakura City crest—the gentian flower and leaves (Sashindo). The cover includes two small teardrop utility lifting slots on opposite sides.",
+    "short_description": "Unpainted diamond grid cover featuring Kamakura's gentian crest.",
+    "description": "A classic circular cast-iron utility cover with a raised diamond-shaped cross-hatch traction grid across its entire surface. At the geometric center, a smooth circular medallion contains the historical Kamakura City crest—the gentian flower and leaves (Sashindo). The cover includes two small teardrop utility lifting slots on opposite sides.",
     "foundry": "",
     "artist": "",
     "notes": "Referenced in file 'jp-kamakura--industrial--01.jpg'. A functional heavy-traffic urban infrastructure cover utilizing Kamakura's official city emblem for local identification."
@@ -725,7 +725,7 @@
       "fretwork",
       "city crest"
     ],
-    "short_description": "Unpainted heavy utility manhole with a geometric fretwork pattern.",
+    "short_description": "Unpainted heavy utility cover with a geometric fretwork pattern.",
     "description": "An unpainted, circular cast-iron electrical access hatch set flush into an aggregate asphalt street. The cover features a highly dense, slip-resistant continuous key fretwork or maze-like structural grid profile. The center features a circular stamp enclosing Kanazawa's historic plum blossom and '金' (Kana) crest, positioned right above a raised horizontal rectangular label reading '電気' (Electricity). A tiny manufacturer diamond stamp at the very bottom edge reads 'FUKUNISHI'.",
     "foundry": "Fukunishi Foundry",
     "artist": "",
@@ -753,7 +753,7 @@
       "plum blossom"
     ],
     "short_description": "Unpainted circular concentric ring utility cover.",
-    "description": "A standard circular cast-iron utility manhole cover with a plain, unpainted finish. The layout consists of blocky, rectangular traction teeth arranged in four nesting concentric rings that radiate outwards from the center. The absolute core of the cover features a circular crest enclosing the classic Kanazawa plum flower emblem. A single utility lifting notch breaks the alignment at the bottom rim.",
+    "description": "A standard circular cast-iron utility cover with a plain, unpainted finish. The layout consists of blocky, rectangular traction teeth arranged in four nesting concentric rings that radiate outwards from the center. The absolute core of the cover features a circular crest enclosing the classic Kanazawa plum flower emblem. A single utility lifting notch breaks the alignment at the bottom rim.",
     "foundry": "",
     "artist": "",
     "notes": "Referenced in file 'jp-kanazawa--industrial--02.jpg'. A generic municipal design utilized across public spaces to balance traction efficiency and low-maintenance functionality."
@@ -809,8 +809,8 @@
       "milotic",
       "kutani yaki"
     ],
-    "short_description": "Official PokéFuta manhole cover featuring the Pokémon Milotic.",
-    "description": "An official colorized PokéFuta (Pokémon manhole cover) situated outside the National Crafts Museum. The central design shows the elegant water-type Pokémon Milotic arcing gracefully over a stylized circle decorated with Kutani-yaki porcelain patterns, traditional crafts, and a central Mizuhiki string knot. The artwork is bordered by a sky-blue rim stating 'ミロカロス' (Milotic) along the top, and 'かなざわ' (Kanazawa) alongside '©Pokémon' at the bottom.",
+    "short_description": "Official PokéFuta cover featuring the Pokémon Milotic.",
+    "description": "An official colorized PokéFuta (Pokémon cover) situated outside the National Crafts Museum. The central design shows the elegant water-type Pokémon Milotic arcing gracefully over a stylized circle decorated with Kutani-yaki porcelain patterns, traditional crafts, and a central Mizuhiki string knot. The artwork is bordered by a sky-blue rim stating 'ミロカロス' (Milotic) along the top, and 'かなざわ' (Kanazawa) alongside '©Pokémon' at the bottom.",
     "foundry": "",
     "artist": "",
     "notes": "Referenced in file 'jp-kanazawa--pokeman--01.jpg'. Unveiled in May 2023, Milotic was selected to mirror Kanazawa's status as an epicenter of natural beauty, fine art, and craft culture."
@@ -995,7 +995,7 @@
       "historical"
     ],
     "short_description": "Historical Katsuyama Village cover depicting playful squirrels.",
-    "description": "A beautifully detailed, unpainted circular manhole cover showcasing two playful squirrels surrounded by oak branches and acorns. One squirrel is perched on a branch eating an acorn, while the second stands below it looking upward. The entire central scene is framed by an elegant border of blooming cherry blossoms. The bottom left edge explicitly denotes the historical locality text 'かつやま' (Katsuyama), right next to 'おすい' (Osui - Wastewater).",
+    "description": "A beautifully detailed, unpainted circular cover showcasing two playful squirrels surrounded by oak branches and acorns. One squirrel is perched on a branch eating an acorn, while the second stands below it looking upward. The entire central scene is framed by an elegant border of blooming cherry blossoms. The bottom left edge explicitly denotes the historical locality text 'かつやま' (Katsuyama), right next to 'おすい' (Osui - Wastewater).",
     "foundry": "",
     "artist": "",
     "notes": "Referenced in file 'jp-kawaguchiko--squirrels--01.jpg'. A highly sought-after legacy design from the former Katsuyama Village area before it merged into modern Fujikawaguchiko."
@@ -1051,7 +1051,7 @@
       "dancer"
     ],
     "short_description": "Painted commemorative Kyoto Student Festival cover.",
-    "description": "A colorized circular manhole cover dedicated to the Kyoto Student Festival. The multi-colored graphic features a prominent pink-purple torii gate backed by traditional stylized horizontal white clouds. In the foreground, a modern student guitarist stands next to a dynamic traditional dancer performing in front of golden-yellow panels filled with stylized cranes and chrysanthemums. Bold black kanji along the top clouds reads '京都学生祭典' (Kyoto Student Festival).",
+    "description": "A colorized circular cover dedicated to the Kyoto Student Festival. The multi-colored graphic features a prominent pink-purple torii gate backed by traditional stylized horizontal white clouds. In the foreground, a modern student guitarist stands next to a dynamic traditional dancer performing in front of golden-yellow panels filled with stylized cranes and chrysanthemums. Bold black kanji along the top clouds reads '京都学生祭典' (Kyoto Student Festival).",
     "foundry": "",
     "artist": "",
     "notes": "Referenced in file 'jp-kyoto--festival--01.jpg'. This specialty design honors the massive annual festival organized entirely by Kyoto's massive university student population."
@@ -1130,8 +1130,8 @@
       "unpainted",
       "city crest"
     ],
-    "short_description": "Cast-iron manhole with repeating micro-pattern grid.",
-    "description": "An unpainted circular cast-iron manhole cover surrounded by standard black aggregate pavement. The high-traction pattern consists of dozens of miniature, repeating concentric gear- or wheel-like medallions densely packed across the face. At the exact axis is a smooth raised circular ring enclosing the prominent Kyoto six-pointed star crest. A single utility notch breaks the bottom border next to a small blank rectangular label box.",
+    "short_description": "Cast-iron with repeating micro-pattern grid.",
+    "description": "An unpainted circular cast-iron cover surrounded by standard black aggregate pavement. The high-traction pattern consists of dozens of miniature, repeating concentric gear- or wheel-like medallions densely packed across the face. At the exact axis is a smooth raised circular ring enclosing the prominent Kyoto six-pointed star crest. A single utility notch breaks the bottom border next to a small blank rectangular label box.",
     "foundry": "",
     "artist": "",
     "notes": "Referenced in file 'jp-kyoto--industrial--02.jpg'. An excellent example of standard anti-slip surface engineering utilizing a dense macro-micro layout pattern."
@@ -1211,7 +1211,7 @@
       "fretwork",
       "utility logo"
     ],
-    "short_description": "Telecommunications manhole cover with repeating cross grid.",
+    "short_description": "Telecommunications cover with repeating cross grid.",
     "description": "A dark circular utility access lid bordered by aggregate masonry. The surface profile is composed of an interlocking grid of geometric Greek crosses and square boxes, stamped near the upper center with 'T-25' indicating heavy vehicle load rating. The center features a corporate or utility logo consisting of a stylized swirling emblem within a gear ring. A bottom arched title text banner clearly denotes '通信' (Tsushin - Telecommunications).",
     "foundry": "",
     "artist": "",
@@ -1291,7 +1291,7 @@
       "basketweave",
       "city crest"
     ],
-    "short_description": "Electrical utility manhole with high-traction basketweave pattern.",
+    "short_description": "Electrical utility with high-traction basketweave pattern.",
     "description": "An unpainted circular cast-iron electrical line hatch surrounded by a stone paving ring. The high-friction surface is defined by a standard repeating basketweave or alternating horizontal-vertical block tread layout. Two decorative decorative crest frames flank the left and right center. The centerpiece is a circular medallion containing the six-pointed Kyoto star crest, flanked internally by small kanji characters indicating '関西電力' (Kansai Electric Power) or '関西電化' utilities.",
     "foundry": "",
     "artist": "",
@@ -1423,7 +1423,7 @@
       "city crest"
     ],
     "short_description": "High-traction utility cover with dense hexagonal pattern.",
-    "description": "A dark, circular cast-iron manhole cover set flush in brushed concrete. The entire face is covered in a highly dense anti-slip pattern composed of miniature raised dots clustered into interlocking hexagonal rosettes. A small six-pointed Kyoto city crest sits dead-center. Two text tabs are integrated along the upper rim: the right side reads 'きょうとし' (Kyoto-shi) and the left reads 'ごうりゅう' (Goryu - Combined Sewer).",
+    "description": "A dark, circular cast-iron cover set flush in brushed concrete. The entire face is covered in a highly dense anti-slip pattern composed of miniature raised dots clustered into interlocking hexagonal rosettes. A small six-pointed Kyoto city crest sits dead-center. Two text tabs are integrated along the upper rim: the right side reads 'きょうとし' (Kyoto-shi) and the left reads 'ごうりゅう' (Goryu - Combined Sewer).",
     "foundry": "",
     "artist": "",
     "notes": "Referenced in file 'jp-kyoto--industrial--13.jpg'. Optimized for pedestrian safety and maximum traction while displaying standard municipal branding in hiragana."
@@ -1451,7 +1451,7 @@
       "pop culture"
     ],
     "short_description": "Official PokéFuta cover featuring Cyndaquil and Darmanitan.",
-    "description": "A vibrant, fully painted collaborative Pokémon manhole cover ('Pokéfuta') set into a gravel-aggregate walkway. The design depicts Cyndaquil (ヒノアラシ) looking upward on a stone path next to a fiery Darmanitan (ヒヒダルma) framed by stone temple lanterns and stylized greenery. The beige outer border contains the character names in katakana, 'きょうと' (Kyoto) in hiragana, and the official corporate copyright stamp.",
+    "description": "A vibrant, fully painted collaborative Pokémon cover ('Pokéfuta') set into a gravel-aggregate walkway. The design depicts Cyndaquil (ヒノアラシ) looking upward on a stone path next to a fiery Darmanitan (ヒヒダルma) framed by stone temple lanterns and stylized greenery. The beige outer border contains the character names in katakana, 'きょうと' (Kyoto) in hiragana, and the official corporate copyright stamp.",
     "foundry": "",
     "artist": "Nintendo / Creatures Inc. / GAME FREAK inc.",
     "notes": "Referenced in file 'jp-kyoto--pokeman--01.jpg'. Part of Japan's country-wide tourism initiative linking regional discovery with iconic pop-culture designs."
@@ -1908,7 +1908,7 @@
       "tennoji ward"
     ],
     "short_description": "Colorized Tennoji Ward variant with Osaka Castle design.",
-    "description": "A light-blue, pink, and white painted variant of the iconic Osaka Castle manhole cover. It depicts the majestic multi-tiered keep of Osaka Castle flanked by blooming cherry blossoms (sakura) and dynamic cresting water waves at the base. The top features the standard stylized Osaka City crest, while the bottom-left explicitly lists the localized area text '天王寺区' (Tennoji Ward).",
+    "description": "A light-blue, pink, and white painted variant of the iconic Osaka Castle cover. It depicts the majestic multi-tiered keep of Osaka Castle flanked by blooming cherry blossoms (sakura) and dynamic cresting water waves at the base. The top features the standard stylized Osaka City crest, while the bottom-left explicitly lists the localized area text '天王寺区' (Tennoji Ward).",
     "foundry": "",
     "artist": "",
     "notes": "A ward-specific edition of the classic municipal design. The text reads '天王寺区' (Tennoji Ward)."
@@ -2233,14 +2233,22 @@
     "filename": "jp-shirakawa-go--houses--01.jpg",
     "large": "images/Large/jp-shirakawa-go--houses--01.jpg",
     "thumb": "images/Thumbs/jp-shirakawa-go--houses--01.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Gifu Prefecture",
+    "location": "Shirakawa Village",
+    "tags": [
+      "pictorial",
+      "circular",
+      "unpainted",
+      "gassho-zukuri",
+      "traditional houses",
+      "clouds",
+      "mountains"
+    ],
+    "short_description": "Cover depicting traditional gassho-zukuri houses.",
+    "description": "A circular cast-iron utility cover featuring a detailed pictorial landscape of Shirakawa-go. The lower right portion proudly illustrates three iconic traditional thatched-roof 'gassho-zukuri' farmhouses nestled together. To the left, stylized rounded mountain peaks rise toward a textured sky filled with swirling horizontal cloud patterns. Positioned near the center-top, bold, organic kanji and hiragana script reads 'しらかわごう 白川郷' (Shirakawa-go).",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-shirakawa-go--houses--01.jpg'. This beautiful unpainted design perfectly showcases the UNESCO World Heritage site's famous historic architecture."
   },
   {
     "id": "jp-takayama--drain--01",
@@ -2252,14 +2260,20 @@
     "filename": "jp-takayama--drain--01.jpg",
     "large": "images/Large/jp-takayama--drain--01.jpg",
     "thumb": "images/Thumbs/jp-takayama--drain--01.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Gifu Prefecture",
+    "location": "Takayama City",
+    "tags": [
+      "industrial",
+      "circular",
+      "drainage grate",
+      "slotted",
+      "city crest"
+    ],
+    "short_description": "Circular drainage grate with city crest.",
+    "description": "A circular cast-iron drainage grate section installed flush in the pavement. The layout features wide horizontal drainage slots divided by a central vertical bar and a decorative square border border. Dead-center is the stylized municipal crest of Takayama City, featuring a diamond-like geometric design. The outer rim is embellished with a dual-row repeating square micro-tread pattern.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-takayama--drain--01.jpg'. Designed specifically to manage heavy stormwater runoff efficiently while ensuring pedestrian traction along the outer rim."
   },
   {
     "id": "jp-takayama--flowers--01",
@@ -2271,14 +2285,21 @@
     "filename": "jp-takayama--flowers--01.jpg",
     "large": "images/Large/jp-takayama--flowers--01.jpg",
     "thumb": "images/Thumbs/jp-takayama--flowers--01.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Gifu Prefecture",
+    "location": "Takayama City",
+    "tags": [
+      "pictorial",
+      "circular",
+      "unpainted",
+      "rhododendron",
+      "leaves",
+      "sewerage"
+    ],
+    "short_description": "Unpainted utility cover with rhododendron design.",
+    "description": "A dark, unpainted circular utility cover showcasing a dense pictorial relief of blooming rhododendron flowers, the official city flower of Takayama. The surface is completely covered in multi-petaled blossoms, pointed leaves, and budding branches. Integrated into the bottom border is the stylized kanji for sewerage, reading '下水' (Gesui).",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-takayama--flowers--01.jpg'. A beautifully textured municipal piece that celebrates local alpine flora across the city's standard drainage network."
   },
   {
     "id": "jp-takayama--flowers--02",
@@ -2290,14 +2311,20 @@
     "filename": "jp-takayama--flowers--02.jpg",
     "large": "images/Large/jp-takayama--flowers--02.jpg",
     "thumb": "images/Thumbs/jp-takayama--flowers--02.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Gifu Prefecture",
+    "location": "Takayama City",
+    "tags": [
+      "pictorial",
+      "circular",
+      "unpainted",
+      "rhododendron",
+      "leaves"
+    ],
+    "short_description": "Textured lid showing stylized rhododendron blossoms.",
+    "description": "A circular weathered cast-iron utility hatch enclosed within a concrete support collar. The centerpiece features a naturalistic relief layout of two prominent rhododendron flowers growing upward from a cluster of thick, veined leaves. Two rectangular integrated lifting hook pockets break the graphic symmetrically on the left and right sides.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-takayama--flowers--02.jpg'. A highly structured variation of the city's signature floral motif, optimizing space around structural utility mechanics."
   },
   {
     "id": "jp-takayama--flowers--03",
@@ -2309,14 +2336,20 @@
     "filename": "jp-takayama--flowers--03.jpg",
     "large": "images/Large/jp-takayama--flowers--03.jpg",
     "thumb": "images/Thumbs/jp-takayama--flowers--03.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Gifu Prefecture",
+    "location": "Takayama City",
+    "tags": [
+      "pictorial",
+      "circular",
+      "unpainted",
+      "rhododendron",
+      "leaves"
+    ],
+    "short_description": "Circular iron plate with alpine rhododendrons.",
+    "description": "A clean, unpainted circular iron utility access plate set into a concrete masonry frame. The artistic layout depicts a pair of large alpine rhododendron blossoms intertwined with wide, deeply ribbed leaves. The composition fills the entire round frame, utilizing contrasting textures between the smooth petals and the raised leaf veins.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-takayama--flowers--03.jpg'. This presents a slightly modified close-up casting variation of Takayama's standard regional botanical design."
   },
   {
     "id": "jp-takayama--flowers-color--01",
@@ -2328,14 +2361,21 @@
     "filename": "jp-takayama--flowers-color--01.jpg",
     "large": "images/Large/jp-takayama--flowers-color--01.jpg",
     "thumb": "images/Thumbs/jp-takayama--flowers-color--01.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Gifu Prefecture",
+    "location": "Takayama City",
+    "tags": [
+      "pictorial",
+      "circular",
+      "painted",
+      "rhododendron",
+      "leaves",
+      "waterworks"
+    ],
+    "short_description": "Vibrantly painted rhododendron city utility cover.",
+    "description": "A beautiful, colorized version of Takayama's signature municipal design set into stone paving. The relief features brightly painted pink rhododendron blossoms with soft white accents, surrounded by rich, muted green leaves. Two square text inserts are cast on opposite ends: the left reads '下' (Gesu) and the bottom reads '水' (Sui), indicating wastewater service.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-takayama--flowers-color--01.jpg'. This painted variant is meticulously maintained to provide a vibrant pop of color in high-end pedestrian and historic shopping districts."
   },
   {
     "id": "jp-takayama--industrial--01",
@@ -2347,14 +2387,20 @@
     "filename": "jp-takayama--industrial--01.jpg",
     "large": "images/Large/jp-takayama--industrial--01.jpg",
     "thumb": "images/Thumbs/jp-takayama--industrial--01.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Gifu Prefecture",
+    "location": "Takayama City",
+    "tags": [
+      "geometric",
+      "industrial",
+      "circular",
+      "honeycomb",
+      "city crest"
+    ],
+    "short_description": "Industrial honeycomb cover with city crest.",
+    "description": "A heavy-duty circular industrial utility plate with a wet, reflective metallic face. The field pattern is composed of a continuous geometric honeycomb grid of interlocking hexagons. Positioned exactly at the center is a small circular medallion bearing the geometric, stylized crest of Takayama City. Two vertical rectangular lifting slots flank the central emblem.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-takayama--industrial--01.jpg'. Built to handle substantial structural loads while minimizing slip hazards through a geometric tread layout."
   },
   {
     "id": "jp-takayama--industrial--02",
@@ -2366,14 +2412,21 @@
     "filename": "jp-takayama--industrial--02.jpg",
     "large": "images/Large/jp-takayama--industrial--02.jpg",
     "thumb": "images/Thumbs/jp-takayama--industrial--02.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Gifu Prefecture",
+    "location": "Takayama City",
+    "tags": [
+      "geometric",
+      "industrial",
+      "circular",
+      "repeating pattern",
+      "sewerage",
+      "city crest"
+    ],
+    "short_description": "Textured traction lid with municipal seal.",
+    "description": "An unpainted circular cast-iron utility access lid framed by brushed concrete. The anti-slip surface texture is made up of dozens of small, repeating circular dimples tightly packed together. In the center is a gear-edged medallion framing the geometric Takayama city symbol. A lower arched plaque contains deep-set kanji reading '下水' (Gesui), denoting sewage utility access.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-takayama--industrial--02.jpg'. A classic utilitarian layout focusing on maximum foot traffic safety and distinct structural function markings."
   },
   {
     "id": "jp-takayama--pokeman--01",
@@ -2385,14 +2438,24 @@
     "filename": "jp-takayama--pokeman--01.jpg",
     "large": "images/Large/jp-takayama--pokeman--01.jpg",
     "thumb": "images/Thumbs/jp-takayama--pokeman--01.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Gifu Prefecture",
+    "location": "Takayama City",
+    "tags": [
+      "pictorial",
+      "circular",
+      "painted",
+      "pokemon",
+      "pokefuta",
+      "pansage",
+      "pansear",
+      "panpour",
+      "pop culture"
+    ],
+    "short_description": "Official PokéFuta cover featuring elemental monkeys.",
+    "description": "A highly colorful, officially painted collaborative Pokémon 'Pokéfuta' utility lid embedded in granite flagstones. The vibrant cartoon scene depicts the three elemental monkey Pokémon: the green Pansage (ヤナップ), the red Pansear (バオップ), and the blue Panpour (ヒヤップ) leaping playfully. In the background, a traditional wooden building and a red bridge hint at Takayama's famous Nakabashi Bridge. The white outer ring displays the character names in katakana, 'たかやま' (Takayama) in hiragana, and the corporate copyright stamp.",
     "foundry": "",
-    "artist": "",
-    "notes": ""
+    "artist": "Nintendo / Creatures Inc. / GAME FREAK inc.",
+    "notes": "Referenced in file 'jp-takayama--pokeman--01.jpg'. An iconic tourist feature seamlessly merging popular pop culture with landmarks unique to Takayama's heritage."
   },
   {
     "id": "jp-tokyo--chicken--01",
@@ -2651,7 +2714,7 @@
       "sumida river"
     ],
     "short_description": "Ukiyo-e tribute cover featuring Hokusai's Great Wave.",
-    "description": "A striking circular manhole cover featuring a colored, detailed insert of Katsushika Hokusai's world-famous woodblock print, 'The Great Wave off Kanagawa', displaying cresting blue waves with white sea foam and Mount Fuji in the background. The stylized hiragana text 'すみだ' (Sumida) is printed on the sky background. The outer cast-iron frame has a wave-like scale pattern and features text reading '東京下水道' (Tokyo Sewerage) and '雨水' (Stormwater).",
+    "description": "A striking circular cover featuring a colored, detailed insert of Katsushika Hokusai's world-famous woodblock print, 'The Great Wave off Kanagawa', displaying cresting blue waves with white sea foam and Mount Fuji in the background. The stylized hiragana text 'すみだ' (Sumida) is printed on the sky background. The outer cast-iron frame has a wave-like scale pattern and features text reading '東京下水道' (Tokyo Sewerage) and '雨水' (Stormwater).",
     "foundry": "",
     "artist": "Katsushika Hokusai",
     "notes": "Referenced in file 'jp-tokyo--great-wave--01.jpg'. This public art installation celebrates Sumida Ward as the birthplace of the legendary ukiyo-e master Hokusai."
@@ -2747,7 +2810,7 @@
       "text-only"
     ],
     "short_description": "Unpainted industrial wastewater cover with traction grid.",
-    "description": "A flat, unpainted cast-iron circular manhole cover featuring an elongated diamond mesh grid pattern for heavy-duty skid prevention. The exact center features a small circular emblem housing the two kanji '汚水' (Osui - Wastewater / Sewage). The lower rim contains technical manufacturing serial stamps 'MGDHG 300 RC SC'.",
+    "description": "A flat, unpainted cast-iron circular cover featuring an elongated diamond mesh grid pattern for heavy-duty skid prevention. The exact center features a small circular emblem housing the two kanji '汚水' (Osui - Wastewater / Sewage). The lower rim contains technical manufacturing serial stamps 'MGDHG 300 RC SC'.",
     "foundry": "",
     "artist": "",
     "notes": "Referenced in file 'jp-tokyo--industrial--04.jpg'. A utility-focused asset optimized for public roads and sidewalks."
@@ -2838,7 +2901,7 @@
       "starlight"
     ],
     "short_description": "Sailor Moon alignment variant under starry background.",
-    "description": "A beautiful circular anime manhole cover showing full-body graphic portraits of the five classic Sailor Guardians standing confidently under a dreamlike, deep blue starry night sky background with a glowing full moon behind them. The official copyright mark '©Naoko Takeuchi' is visible in the bottom right corner of the insert. The outer iron rim features standard Tokyo Metropolitan geometric detailing.",
+    "description": "A beautiful circular anime cover showing full-body graphic portraits of the five classic Sailor Guardians standing confidently under a dreamlike, deep blue starry night sky background with a glowing full moon behind them. The official copyright mark '©Naoko Takeuchi' is visible in the bottom right corner of the insert. The outer iron rim features standard Tokyo Metropolitan geometric detailing.",
     "foundry": "",
     "artist": "Naoko Takeuchi",
     "notes": "Referenced in file 'jp-tokyo--sailor-moon--02.jpg'. Another highly sought-after installment of the 2024 Minato Ward pop-culture design rollouts."
