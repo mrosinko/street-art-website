@@ -1,0 +1,11 @@
+.git
+.git/**
+.wrangler
+.wrangler/**
+scripts
+scripts/**
+images/Originals
+images/Originals/**
+*.py
+__pycache__
+**/__pycache__
