@@ -442,91 +442,159 @@
   },
   {
     "id": "jp-kanazawa--blue--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Ishikawa Prefecture",
+    "location": "Kanazawa City",
+    "tags": [
+      "featured",
+      "pictorial",
+      "colorized",
+      "circular",
+      "sewerage",
+      "mizuhiki",
+      "traditional craft",
+      "braided cord"
+    ],
+    "short_description": "Vibrant teal-blue sewer cover depicting traditional mizuhiki paper-cord braiding.",
+    "description": "A circular cast-iron wastewater cover with an inset decorative plate. The centerpiece is a brilliant teal-blue disc filled with a complex, intersecting circular geometric relief layout that mimics traditional 'Mizuhiki' (decorative Japanese paper-cord) knot-tying and braiding techniques. The raw dark-iron outer rim contains segmented anti-slip rib patterns, the city's stylized text on the bottom left reading 'かなざわし' (Kanazawa City), and 'げすい' (Osui - Wastewater) on the bottom right.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kanazawa--blue--01.jpg'. This public design pays homage to Kanazawa's esteemed history as a UNESCO City of Crafts and Folk Arts."
   },
   {
     "id": "jp-kanazawa--drain--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Ishikawa Prefecture",
+    "location": "Kanazawa City",
+    "tags": [
+      "geometric",
+      "industrial",
+      "rectangular",
+      "drainage grate",
+      "trench drain",
+      "city crest",
+      "plum blossom"
+    ],
+    "short_description": "Rectangular cast-iron drainage grate embedded with the Kanazawa city crest.",
+    "description": "A heavy-duty rectangular storm water catch basin grate set into a stone block sidewalk pathway. The grate features vertical drainage slots intersected by crossbars, bookended on the top and bottom by traction zones patterned with small raised pebbles. Perfectly dead-centered within the slots is a cast circular medallion housing the official Kanazawa City crest—the plum blossom outline surrounding the stylized kanji character for '金' (Kana).",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kanazawa--drain--01.jpg'. Shows how municipal branding is elegantly down-scaled onto standard roadside stormwater infrastructure."
   },
   {
     "id": "jp-kanazawa--green--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Ishikawa Prefecture",
+    "location": "Kanazawa City",
+    "tags": [
+      "geometric",
+      "industrial",
+      "circular",
+      "gas utility",
+      "valve cover",
+      "honeycomb",
+      "plum blossom"
+    ],
+    "short_description": "Green-rimmed circular gas valve cover with a honeycomb texture.",
+    "description": "A small circular cast-iron utility cap inset into a concrete stone pavement tile. The outer ring is coated in a durable, bright green textured paint with repeating traction dimples. The interior bare-iron surface utilizes a dense, defensive honeycomb mesh pattern flanking a raised vertical rectangular title box that reads 'ガスバルブ' (Gas Valve). To the left of the text box is a circular stamp enclosing the city's plum blossom crest wrapped around a stylized 'G' for gas.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kanazawa--green--01.jpg'. High-contrast industrial design utilizing color coding for gas infrastructure line maintenance safety."
   },
   {
     "id": "jp-kanazawa--industrial--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
-    "foundry": "",
+    "region": "Ishikawa Prefecture",
+    "location": "Kanazawa City",
+    "tags": [
+      "geometric",
+      "industrial",
+      "circular",
+      "electrical utility",
+      "fretwork",
+      "city crest"
+    ],
+    "short_description": "Unpainted heavy utility manhole with a geometric fretwork pattern.",
+    "description": "An unpainted, circular cast-iron electrical access hatch set flush into an aggregate asphalt street. The cover features a highly dense, slip-resistant continuous key fretwork or maze-like structural grid profile. The center features a circular stamp enclosing Kanazawa's historic plum blossom and '金' (Kana) crest, positioned right above a raised horizontal rectangular label reading '電気' (Electricity). A tiny manufacturer diamond stamp at the very bottom edge reads 'FUKUNISHI'.",
+    "foundry": "Fukunishi Foundry",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kanazawa--industrial--01.jpg'. A durable, functional street fixture utilizing standard anti-slip safety patterns common to electrical lines."
   },
   {
     "id": "jp-kanazawa--industrial--02",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Ishikawa Prefecture",
+    "location": "Kanazawa City",
+    "tags": [
+      "geometric",
+      "industrial",
+      "circular",
+      "radial",
+      "unpainted",
+      "city crest",
+      "plum blossom"
+    ],
+    "short_description": "Unpainted circular concentric ring utility cover.",
+    "description": "A standard circular cast-iron utility manhole cover with a plain, unpainted finish. The layout consists of blocky, rectangular traction teeth arranged in four nesting concentric rings that radiate outwards from the center. The absolute core of the cover features a circular crest enclosing the classic Kanazawa plum flower emblem. A single utility lifting notch breaks the alignment at the bottom rim.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kanazawa--industrial--02.jpg'. A generic municipal design utilized across public spaces to balance traction efficiency and low-maintenance functionality."
   },
   {
     "id": "jp-kanazawa--lantern--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Ishikawa Prefecture",
+    "location": "Kanazawa City",
+    "tags": [
+      "featured",
+      "pictorial",
+      "colorized",
+      "rectangular",
+      "fire utility",
+      "fire hydrant",
+      "kenrokuen",
+      "stone lantern",
+      "maple leaves"
+    ],
+    "short_description": "Colorized rectangular fire hydrant lid showing the Kotoji stone lantern.",
+    "description": "A rectangular painted cast-iron emergency fire utility cover. The artwork beautifully illustrates the famous two-legged Kotoji-toro (stone lantern) of Kenroku-en Garden, widely treated as the primary visual symbol of Kanazawa. The golden-tan lantern stands over swirling teal-blue streams of water, framed against a rich forest-green background scattered with floating autumn maple leaves. Bold raised kanji at the bottom right reads '消火栓' (Fire Hydrant).",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kanazawa--lantern--01.jpg'. One of Kanazawa's most universally recognized and celebrated local landmark configurations."
   },
   {
     "id": "jp-kanazawa--pokeman--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Ishikawa Prefecture",
+    "location": "Kanazawa City",
+    "tags": [
+      "pop culture",
+      "pictorial",
+      "colorized",
+      "circular",
+      "pokefuta",
+      "pokelid",
+      "pokemon",
+      "milotic",
+      "kutani yaki"
+    ],
+    "short_description": "Official PokéFuta manhole cover featuring the Pokémon Milotic.",
+    "description": "An official colorized PokéFuta (Pokémon manhole cover) situated outside the National Crafts Museum. The central design shows the elegant water-type Pokémon Milotic arcing gracefully over a stylized circle decorated with Kutani-yaki porcelain patterns, traditional crafts, and a central Mizuhiki string knot. The artwork is bordered by a sky-blue rim stating 'ミロカロス' (Milotic) along the top, and 'かなざわ' (Kanazawa) alongside '©Pokémon' at the bottom.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kanazawa--pokeman--01.jpg'. Unveiled in May 2023, Milotic was selected to mirror Kanazawa's status as an epicenter of natural beauty, fine art, and craft culture."
   },
   {
     "id": "jp-kanazawa--street-plaque--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Ishikawa Prefecture",
+    "location": "Kanazawa City",
+    "tags": [
+      "pictorial",
+      "square",
+      "street plaque",
+      "highway marker",
+      "route 159",
+      "cherry blossoms",
+      "waves"
+    ],
+    "short_description": "Square bronze commemorative highway marker plaque for Route 159.",
+    "description": "A decorative square metal marker plaque installed flush among sidewalk paving stones. The top section showcases low-relief cast artwork depicting delicate cherry blossom flowers floating on stylized flowing river currents. The bottom half is split into two panels: the left displays a pink-shaded shield crest bearing the number '159' (signifying National Route 159), while the right side displays the large bronze number '65'.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Referenced in file 'jp-kanazawa--street-plaque--01.jpg'. An aesthetic urban boundary, distance tracking, or infrastructure management plaque highlighting local natural motifs."
   },
   {
     "id": "jp-kawaguchiko--bridge--01",
@@ -1654,7 +1722,6 @@
       "sailor moon",
       "pretty guardian sailor moon",
       "naoko takeuchi",
-      "pop culture",
       "shojo"
     ],
     "short_description": "Colorized Minato Ward cover featuring five Guardians.",
