@@ -1796,78 +1796,112 @@
   },
   {
     "id": "jp-tokyo--flower--02",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Tokyo Prefecture",
+    "location": "Tokyo",
+    "tags": [
+      "geometric",
+      "circular",
+      "unpainted",
+      "cherry blossom",
+      "sakura",
+      "abstract",
+      "utility"
+    ],
+    "short_description": "Standard Tokyo utility cover featuring a geometric cherry blossom lattice.",
+    "description": "A classic, unpainted circular cast-iron utility plate set flush into an asphalt street with a bold white painted diagonal traffic line. The surface texture is defined by a dense arrangement of small anti-slip traction nubs that trace an abstract, interlocking geometric pattern suggesting stylized cherry blossom outlines. The very center features a rectangular data plaque reading '東京下水道' (Tokyo Sewerage) above a line of four numbered, color-coded plug indicators (orange, green, teal, and beige) marking technical specification data, flanked by '管布設' (Pipe Laid) and the year indicator. The bottom plate section displays the text '合流' (Combined System).",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "A ubiquitous and iconic industrial casting found throughout the municipal wards of Tokyo, beautifully blending high-traction infrastructure engineering with subtle regional sakura geometry."
   },
   {
     "id": "jp-tokyo--flower-w-color-dots--01",
-    "region": "Tokyo Prefecture",
-    "location": "Tokyo Metropolis",
-    "tags": [
-      "standard",
-      "somei-yoshino",
-      "cherry blossom",
-      "sakura",
-      "ginkgo",
-      "yurikamome",
-      "maintenance holes",
-      "colored caps"
-    ],
-    "short_description": "Tokyo cherry blossom design with tracking tokens.",
-    "description": "A standard circular Tokyo sewer cover showcasing a stylized, five-petal Somei-Yoshino cherry blossom layout, with tiny ginkgo leaves tucked between the main petals. The inner petals are patterned with dense drainage holes. The central core reads '東京下水道' (Tokyo Sewerage). Four colorful hexagonal plastic cap inserts (two yellow, two green) are lined up horizontally across the center showing data codes, flanked by the character '年' (Year). The bottom label reads '合流' (Combined Sewer).",
+    "region": "",
+    "location": "",
+    "tags": [],
+    "short_description": "",
+    "description": "",
     "foundry": "",
     "artist": "",
-    "notes": "Referenced in file 'jp-tokyo--flower-w-color-dots--01.jpg'. The colored tracking tokens indicate municipal maintenance data, structural indexing, or specific inspection timelines."
+    "notes": ""
   },
   {
     "id": "jp-tokyo--flowers--02",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Tokyo Prefecture",
+    "location": "Tokyo",
+    "tags": [
+      "pictorial",
+      "circular",
+      "unpainted",
+      "cherry blossom",
+      "sakura",
+      "ginkgo crest",
+      "low pressure"
+    ],
+    "short_description": "Intricate relief utility cover showing sweeping cherry blossom branches.",
+    "description": "A wet, unpainted circular cast-iron utility cover set flush into textured granite flagstone paving. The entire field is treated as a detailed artistic canvas, featuring a deeply cast relief of blooming cherry blossom branches extending from the top left, with individual delicate petals caught in a gust of wind and drifting across the right-side negative space. The lower margin features a recessed plaque bearing the stylized ginkgo leaf emblem of Tokyo Prefecture alongside the cast text '低圧' (Low Pressure), indicating its placement over a low-pressure utility or gas line.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "A highly aesthetic, unpainted technical lid variant that captures a classic Japanese spring scene with exceptional textural detail, utilizing deep relief grooves to aid surface drainage."
   },
   {
     "id": "jp-tokyo--flowers-01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Tokyo Prefecture",
+    "location": "Tokyo",
+    "tags": [
+      "pictorial",
+      "circular",
+      "unpainted",
+      "cherry blossom",
+      "sakura",
+      "bird",
+      "pigeon",
+      "park"
+    ],
+    "short_description": "Tokyo Metropolitan Park utility cover depicting cherry blossoms and a flying pigeon.",
+    "description": "An unpainted circular utility lid embedded within a square concrete foundation ring, surrounded by lush green clover grass and a rustic wooden barrier post. The design features a beautifully fluid, cast relief of cherry blossom flowers sweeping across the upper left field, while a large, stylized pigeon or dove glides gracefully through the lower right field amidst stylized wind currents. Two rectangular indentation slots flank the centerpiece for structural lifting. The top rim is stamped with '大正' (Taisho) or standard utility indicators, while the prominent lower border reads '都立公園' (Metropolitan Park).",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "A specialized custom casting exclusively deployed within public green spaces managed by the Tokyo Metropolitan Government, highlighting park wildlife and seasonal sakura blooms."
   },
   {
     "id": "jp-tokyo--godzilla--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Tokyo Prefecture",
+    "location": "Tokyo",
+    "tags": [
+      "pop culture",
+      "circular",
+      "painted",
+      "color graphic",
+      "godzilla",
+      "mothra",
+      "shinjuku",
+      "kaiju"
+    ],
+    "short_description": "Color-printed Shinjuku pop culture cover featuring Godzilla vs. Mothra.",
+    "description": "A specialty circular utility cover featuring a striking, full-color graphic display insert protected by a heavy iron outer frame. The outer frame is detailed with concentric anti-slip dimples and standard municipal text reading '東京下水道' (Tokyo Sewerage) and '合流' (Combined System). The main graphic depicts the legendary King of the Monsters, Godzilla, roaring amidst a nighttime Tokyo cityscape under dramatic blue searchlights, while the giant divine moth, Mothra, soars through the sky behind him. The bold white text '新宿' (Shinjuku) is printed across the lower foreground, accompanied by a small Toho licensing copyright stamp.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Installed in Shinjuku's Kabukicho district near the Shinjuku Toho Building, this commemorative piece celebrates Godzilla's official status as a tourism ambassador for Shinjuku City and depicts scenes inspired by the 1992 film 'Godzilla vs. Mothra'."
   },
   {
     "id": "jp-tokyo--godzilla--02",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Tokyo Prefecture",
+    "location": "Tokyo",
+    "tags": [
+      "pop culture",
+      "circular",
+      "painted",
+      "silhouette",
+      "godzilla",
+      "shin godzilla",
+      "shinjuku",
+      "kaiju"
+    ],
+    "short_description": "Metallic relief pop culture cover showing a pink-backed Godzilla silhouette.",
+    "description": "A commemorative circular cast-iron utility cover featuring a high-contrast artistic layout. The outer border is detailed with small traction rings and houses the text '東京下水道' (Tokyo Sewerage) and '合流' (Combined System). The main field features a striking metallic profile silhouette of Godzilla's iconic jagged back spines, tail, and head crashing through beams of light. The negative spaces of the cutout design are filled with a textured, vibrant salmon-pink background. On the left side, stylized characters spell out '新宿' (Shinjuku), while the bottom margin features a prominent raised copyright text reading '©TOHO CO., LTD.'",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Located in Shinjuku's bustling entertainment hub near Tokyu Kabukicho Tower, this sleek silhouette variant honors the 2016 film 'Shin Godzilla' and pays homage to Shinjuku's deep cinematic ties with the franchise."
   },
   {
     "id": "jp-tokyo--great-wave--01",
