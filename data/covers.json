@@ -2631,14 +2631,22 @@
     "filename": "jp-tokyo--flower-w-color-dots--01.jpg",
     "large": "images/Large/jp-tokyo--flower-w-color-dots--01.jpg",
     "thumb": "images/Thumbs/jp-tokyo--flower-w-color-dots--01.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Tokyo Prefecture",
+    "location": "Tokyo",
+    "tags": [
+      "floral",
+      "circular",
+      "unpainted",
+      "cherry blossom",
+      "ginkgo",
+      "prefectural crest",
+      "utility"
+    ],
+    "short_description": "Tokyo municipal utility cover with stylized cherry blossom and ginkgo motifs.",
+    "description": "An unpainted circular cast-iron utility access lid displaying a clean, stylized variant of Tokyo's regional flora. The prominent central design features a mirrored layout of abstract cherry blossoms and structural ginkgo patterns, accented by textured sections embedded with small raised circles to provide pedestrian grip. A central horizontal nameplate reads '東京下水道' (Tokyo Sewerage) above four colored, hexagonal technical plugs (yellow, green, teal, and beige) and the characters for '管布設' (Pipe Laid). The lower segment is cast with the classification mark '合流' (Combined System).",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Features a prominent variant of the classic Tokyo Sewerage Bureau infrastructure design, beautifully combining the cherry blossom (the prefectural flower) and the ginkgo leaf (the prefectural tree) symbols into a high-traction architectural casting."
   },
   {
     "id": "jp-tokyo--flowers--02",
@@ -2789,14 +2797,23 @@
     "filename": "jp-tokyo--hachiko--01.jpg",
     "large": "images/Large/jp-tokyo--hachiko--01.jpg",
     "thumb": "images/Thumbs/jp-tokyo--hachiko--01.jpg",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Tokyo Prefecture",
+    "location": "Tokyo",
+    "tags": [
+      "pictorial",
+      "rectangular",
+      "painted",
+      "dog",
+      "hachiko",
+      "shibuya",
+      "historical",
+      "landmark"
+    ],
+    "short_description": "Square reddish-brown utility cover featuring the faithful dog Hachiko.",
+    "description": "A square, flush-mounted utility access hatch set into a cobblestone sidewalk next to asphalt paving. The plate is coated in a textured, reddish-brown/salmon protective paint layer. The artistic layout depicts a bold, stylized relief silhouette of Tokyo's famously loyal Akita dog, Hachiko, sitting alertly and facing right. Leafy branches frame the upper corners of the scene, and two rectangular lifting hook recesses are integrated symmetrically on the left and right sides of the main figure.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Located right at the edge of Shibuya Crossing near Shibuya Station. This custom piece pays homage to the legendary story of Hachiko, serving as a subtle structural landmark in one of Tokyo's most heavily foot-trafficked districts."
   },
   {
     "id": "jp-tokyo--industrial--02",
