@@ -2006,25 +2006,47 @@
   },
   {
     "id": "jp-tokyo--pokeman--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Tokyo Prefecture",
+    "location": "Tokyo",
+    "tags": [
+      "pop culture",
+      "circular",
+      "painted",
+      "color graphic",
+      "pokemon",
+      "pokefuta",
+      "baltoy",
+      "bronzor",
+      "ueno",
+      "museum"
+    ],
+    "short_description": "Ueno Park Poké Lid featuring Baltoy and Bronzor with ancient artifact motifs.",
+    "description": "A vibrant, full-color circular Pokéfuta (Pokémon manhole cover) set flush into dark asphalt. The outer iron border frames a highly detailed, lime-green and olive-green graphic field. The symmetrical layout features four Baltoy (ヤジロン) arranged cardinally, facing inward toward a central, blue Bronzor (ドーミラー) motif. Interspersed between the characters are stylized depictions of ancient leaves, geometric shapes, and classic Poké Balls. The top curved margin displays the Pokémon names in green katakana, 'ヤジロン' and 'ドーミラー', while the bottom margin features the location name 'うえの' (Ueno) in hiragana and the official '©Pokémon' copyright text.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Located near the entrance approach of the Tokyo National Museum in Ueno Park. The choice of Baltoy (inspired by Jomon-period clay dogu figures) and Bronzor (resembling ancient bronze mirrors) elegantly honors the archaeological antiquities housed within the adjacent museum."
   },
   {
     "id": "jp-tokyo--pokeman--02",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Tokyo Prefecture",
+    "location": "Tokyo (Ueno Park)",
+    "tags": [
+      "pop culture",
+      "circular",
+      "painted",
+      "color graphic",
+      "pokemon",
+      "pokefuta",
+      "tyrunt",
+      "wynaut",
+      "ueno",
+      "museum"
+    ],
+    "short_description": "Ueno Park Poké Lid showcasing Tyrunt and Wynaut in front of the National Museum of Nature and Science.",
+    "description": "A beautifully illustrated circular utility cover installed within a light-colored, exposed-aggregate pebble walkway. The design features a bold, bright orange outer border ring containing the katakana text 'チゴラス' (Tyrunt) and 'ソーナノ' (Wynaut) along the top, and 'うえの' (Ueno) alongside '©Pokémon' at the bottom. The central illustration captures a brown, dinosaur-like Tyrunt with bared teeth walking alongside a cheerful, bright-blue Wynaut. The background stylized line art depicts the iconic architectural facade of the National Museum of Nature and Science.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Positioned near the main entrance of the National Museum of Nature and Science in Ueno Park. Tyrunt, a prehistoric 'fossil' Pokémon, serves as a playful nod to the extensive dinosaur skeleton and natural history exhibits housed inside the museum."
   },
   {
     "id": "jp-tokyo--sailor-moon--01",
@@ -2065,14 +2087,23 @@
   },
   {
     "id": "jp-tokyo--trees--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Tokyo Prefecture",
+    "location": "Tokyo",
+    "tags": [
+      "pictorial",
+      "circular",
+      "unpainted",
+      "landscape",
+      "pine tree",
+      "teahouse",
+      "prefectural crest",
+      "low pressure"
+    ],
+    "short_description": "Tokyo Metropolitan Park utility cover depicting a traditional garden landscape with a pine tree and teahouse.",
+    "description": "An unpainted circular cast-iron utility cover set securely inside a square concrete collar on a dirt and grass path. The beautifully composed pictorial relief features a large, sculptural Japanese black pine tree stretching up the left foreground, framing a traditional waterside teahouse building across a pond. Two structural lifting slots are integrated into the teahouse windows. At the exact center of the landscape scene is a circular medallion showcasing the stylized ginkgo leaf emblem of Tokyo Prefecture. The lower field includes a small cloud or hedge motif containing the characters '低圧' (Low Pressure), surrounded by a patterned depiction of rippling water or stepping stones.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Located within Hamarikyu Gardens. The scenic casting perfectly represents the park's historic Edo-period design, beautifully capturing its famous tidal pond, traditional teahouses, and meticulously manicured pine trees."
   },
   {
     "id": "jp-uji--city-scape--01",
