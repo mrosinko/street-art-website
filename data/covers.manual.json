@@ -1699,36 +1699,62 @@
   },
   {
     "id": "jp-tokyo--chicken--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
-    "foundry": "",
+    "region": "Tokyo Prefecture",
+    "location": "Tokyo",
+    "tags": [
+      "pictorial",
+      "circular",
+      "unpainted",
+      "geometric",
+      "fretwork",
+      "bird",
+      "wildlife",
+      "tsukiji"
+    ],
+    "short_description": "Circular utility cover featuring a stylized bird medallion.",
+    "description": "An unpainted circular cast-iron utility plate set flush within a textured concrete ring. The main field is textured with a dense, repeating geometric key-fret or maze pattern to maximize pedestrian traction. At the absolute center is a circular relief medallion displaying a highly stylized, front-facing bird motif with large circular eyes and prominent curved plumage. The bottom margin is stamped with a manufacturer banner reading 'FUKUNISHI' next to a diamond logo, while the upper rim features cast technical text reading '600-5000K 20'.",
+    "foundry": "Fukunishi Cast Iron Works",
     "artist": "",
-    "notes": ""
+    "notes": "Located near the Tsukiji Hongwan-ji Temple. This artistic lid belongs to a coordinated wildlife series, combining heavy structural utility with custom local iconography."
   },
   {
     "id": "jp-tokyo--drain-with-flowers--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
+    "region": "Tokyo Prefecture",
+    "location": "Tokyo",
+    "tags": [
+      "industrial",
+      "rectangular",
+      "arabesque",
+      "scrollwork",
+      "drainage grate",
+      "trench drain",
+      "tsukiji"
+    ],
+    "short_description": "Rectangular bronze-toned drainage grate with interlocking arabesque patterns.",
+    "description": "An elegant, heavy-duty rectangular openwork trench drain section positioned flush against polished granite flagstones and a small wall drain inlet. The functional surface features a highly decorative, symmetrical layout of interlocking scrollwork and traditional flowing arabesque open loops designed to let surface water drain freely. The outer upper and lower metal borders are accented by a matching row of small repeating rectangular indentations showing a slight greenish patina.",
     "foundry": "",
     "artist": "",
-    "notes": ""
+    "notes": "Located near the Tsukiji Hongwan-ji Temple. A premium architectural drainage treatment frequently utilized near high-profile plazas or historical complexes to elegantly mask modern stormwater infrastructure."
   },
   {
     "id": "jp-tokyo--elephant--01",
-    "region": "",
-    "location": "",
-    "tags": [],
-    "short_description": "",
-    "description": "",
-    "foundry": "",
+    "region": "Tokyo Prefecture",
+    "location": "Tokyo",
+    "tags": [
+      "pictorial",
+      "circular",
+      "unpainted",
+      "geometric",
+      "fretwork",
+      "elephant",
+      "wildlife",
+      "tsukiji"
+    ],
+    "short_description": "Circular utility cover featuring a stylized elephant medallion.",
+    "description": "An unpainted circular cast-iron utility access lid surrounded by a stone-gray pavement collar. It utilizes the exact same casting template as its companion bird piece, including the dense anti-slip geometric key-fret background pattern, side handle slots, and the lower 'FUKUNISHI' foundry mark. The central medallion instead features a beautiful, stylized relief of an elephant facing forward with its trunk sweeping gracefully to the left side.",
+    "foundry": "Fukunishi Cast Iron Works",
     "artist": "",
-    "notes": ""
+    "notes": "Located near the Tsukiji Hongwan-ji Temple. Pairs directly with the bird layout design, highlighting a themed municipal deployment of custom-cast infrastructural hardware."
   },
   {
     "id": "jp-tokyo--fire--01",
